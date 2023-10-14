@@ -1,0 +1,1001 @@
+id,company_name,company_website,region,vertical,funding_amount_usd,funding_stage,funding_date
+1,Internxt,https://internxt.com/,Spain,Blockchain,571184,Seed,Jan-20
+2,Dockflow,https://dockflow.com,Belgium,Logistics,0,Seed,Jan-20
+3,api.video,https://api.video,France,Developer APIs,300000,Seed,Jan-20
+4,Buck.ai,https://buck.ai/,United States,Artificial Intelligence,300000,Seed,Jan-20
+5,Prodsight,https://www.prodsight.ai,United Kingdom,Artificial Intelligence,529013,Seed,Jan-20
+6,Harvestr,http://harvestr.io/,France,B2B Software,650000,Angel,Jan-20
+7,Seatrec,http://seatrec.com/,United States,Marine Technology,970000,Seed,Jan-20
+8,BeeCanvas,https://beecanvas.com/en,United States,B2B Software,1000000,Seed,Jan-20
+9,SmartKarrot,https://www.smartkarrot.com/,United States,B2B Software,1000000,Angel,Jan-20
+10,Prisync,https://prisync.com,Turkey,B2B Software,1100000,Seed,Jan-20
+11,Fundraise Up,https://fundraiseup.com,United States,B2B Software,1250000,Seed,Jan-20
+12,Yac,https://yac.chat,United States,B2B Software,1250000,Seed,Jan-20
+13,Cloverleaf.me,http://cloverleaf.me,United States,Human Resources,1300000,Seed,Jan-20
+14,Docket,https://dockethq.com,United States,B2B Software,1500000,Seed,Jan-20
+15,Podsights,https://podsights.com/,United States,Marketing,1500000,Seed,Jan-20
+16,SIMBA Chain,http://www.simbachain.com,United States,Blockchain,1500000,Seed,Jan-20
+17,HeyTeam,http://www.heyteam.com,France,B2B Software,1544561,Series A,Jan-20
+18,Float,https://www.floatapp.com,United Kingdom,B2B Software,1955982,Seed,Jan-20
+19,Banxa,https://banxa.com/,Australia,Blockchain,2000000,Series A,Jan-20
+20,Defendify,https://www.defendify.io/,United States,Cyber Security,2000000,Seed,Jan-20
+21,Maze.design,https://maze.design/,France,B2B Software,2000000,Seed,Jan-20
+22,OpenPhone,https://www.openphone.co/,United States,B2B Software,2000000,Seed,Jan-20
+23,Punch List,https://www.punchlist.com,United States,Home Renovation,2000000,Seed,Jan-20
+24,Nannybag,https://www.nannybag.com/,France,Travel,2204536,Seed,Jan-20
+25,atta,https://atta.ai/,Japan,Artificial Intelligence,2751321,Series A,Jan-20
+26,Mine,https://www.saymine.com/,Israel,Cyber Security,3000000,Seed,Jan-20
+27,neptune.ai,https://neptune.ai/,Poland,Artificial Intelligence,3000000,Series A,Jan-20
+28,Ubeya,http://www.ubeya.com,Israel,Human Resources,3500000,Series A,Jan-20
+29,Griffin,https://griffin.sh,United Kingdom,FinTech,3904358,Seed,Jan-20
+30,Coda Platform,https://codaplatform.com/,United Kingdom,Gaming,4000000,Seed,Jan-20
+31,Kloud.io,http://kloud.io,United States,B2B Software,4000000,Seed,Jan-20
+32,Teller,https://teller.io/,United Kingdom,FinTech,4000000,Seed,Jan-20
+33,Upflex,https://www.upflex.com,United States,CoWorking,4100000,Seed,Jan-20
+34,9T Labs,https://www.9tlabs.com/,Switzerland,Mechanical Engineering,4300000,Seed,Jan-20
+35,1Huddle,http://www.1huddle.co,United States,Human Resources,5000000,Series A,Jan-20
+36,Juro,https://www.juro.com,United Kingdom,B2B Software,5000000,Series A,Jan-20
+37,Pando,https://hellopando.com,United Kingdom,Health Care,5000000,Seed,Jan-20
+38,Luxury Presence,https://www.luxurypresence.com/,United States,Real Estate,5400000,Series A,Jan-20
+39,Nuweba,https://www.nuweba.com/,Israel,Cyber Security,5400000,Seed,Jan-20
+40,Lynq,http://www.lynqme.com,United States,Hardware,6000000,Seed,Jan-20
+41,Stoplight,https://stoplight.io,United States,B2B Software,6000000,Series A,Jan-20
+42,Upgrade Pack,http://upgradepack.com,United Kingdom,Travel,6511001,Seed,Jan-20
+43,Shipamax,http://shipamax.com/,United Kingdom,Logistics,7000000,Series A,Jan-20
+44,TypingDNA,https://www.typingdna.com,United States,Artificial Intelligence,7000000,Series A,Jan-20
+45,SkyWatch,https://skywatch.com,Canada,Big Data,7500000,Series A,Jan-20
+46,Testbook.com,http://testbook.com,India,Education,8300000,Series B,Jan-20
+47,Aviwest,https://www.aviwest.com/,France,Video,8796728,Series B,Jan-20
+48,Ceterus,http://www.ceterus.com/,United States,B2B Software,9100000,Series C,Jan-20
+49,AppOmni,https://appomni.com/,United States,Cyber Security,10000000,Series A,Jan-20
+50,Containous,https://containo.us,United States,B2B Software,10000000,Series A,Jan-20
+51,Legalpad,https://www.legalpad.io/,United States,Legal Tech,10000000,Series A,Jan-20
+52,Neighbor,https://www.neighbor.com,United States,Consumer,10000000,Series A,Jan-20
+53,Otter.ai,https://otter.ai,United States,Artificial Intelligence,10000000,Series B,Jan-20
+54,Yumpingo,http://www.yumpingo.com/,United Kingdom,B2B Software,10000000,Series A,Jan-20
+55,Comtravo,https://www.comtravo.com/en/,Germany,Business Travel,10021155,Series B,Jan-20
+56,AbSci,http://www.abscibio.com/,United States,Biotechnology,10400000,Series D,Jan-20
+57,Unito,http://unito.io,Canada,B2B Software,10500000,Series A,Jan-20
+58,Feathr,http://feathr.co,United States,B2B Software,11000000,Series B,Jan-20
+59,Pecan,https://www.pecan.ai,Israel,Artificial Intelligence,11000000,Series A,Jan-20
+60,SimpliField,http://www.simplifield.com,France,B2B Software,11000000,Series A,Jan-20
+61,Locale,https://www.locale.com,United States,Travel,11000000,Series A,Jan-20
+62,Anyline,http://www.anyline.com,Austria,B2B Software,12000000,Series A,Jan-20
+63,Lily AI,http://www.lilystyle.ai,United States,Artificial Intelligence,12500000,Series A,Jan-20
+64,BlueConic,https://www.blueconic.com,United States,B2B Software,12800000,Series B,Jan-20
+65,Spatial,https://spatial.is/,United States,Augmented Reality,14000000,Series A,Jan-20
+66,Jolt.io,http://www.jolt.io,Israel,Education,14140964,Series A,Jan-20
+67,Roambee,http://www.roambee.com,United States,Logistics,15200000,Series B,Jan-20
+68,UpCloud,https://upcloud.com,Finland,Cloud Computing,19954857,Series B,Jan-20
+69,Hivebrite,https://hivebrite.com,France,Professional Networking,20000000,Series A,Jan-20
+70,InterviewBit,https://www.interviewbit.com,India,Recruiting,20000000,Series A,Jan-20
+71,Codility,http://www.codility.com,United Kingdom,Recruiting,22000000,Series A,Jan-20
+72,Frontify,http://www.frontify.com,Switzerland,B2B Software,22300000,Series B,Jan-20
+73,Insurify,http://insurify.com,United States,Artificial Intelligence,23000000,Series A,Jan-20
+74,MURAL,https://mural.co,United States,B2B Software,23000000,Series A,Jan-20
+75,iguazio,http://www.iguazio.com/,Israel,Artificial Intelligence,24000000,Series B,Jan-20
+76,Clubhouse,https://clubhouse.io/,United States,B2B Software,25000000,Series B,Jan-20
+77,Lunit,https://www.lunit.io,South Korea,Artificial Intelligence,26000000,Series C,Jan-20
+78,CREXi,https://www.crexi.com/,United States,Real Estate,30000000,Series B,Jan-20
+79,Workboard,http://www.workboard.com,United States,B2B Software,30000000,Series C,Jan-20
+80,Modern Health,https://www.joinmodernhealth.com/,United States,Human Resources,31000000,Series B,Jan-20
+81,Verbit.ai,https://verbit.ai/,United States,Artificial Intelligence,31000000,Series B,Jan-20
+82,Productboard,https://www.productboard.com,United States,B2B Software,45000000,Series B,Jan-20
+83,Funnel,https://funnel.io/,Sweden,B2B Software,47000000,Series B,Jan-20
+84,Justworks,http://www.justworks.com,United States,B2B Software,50000000,Series E,Jan-20
+85,SECURITI.ai,https://www.securiti.ai/,United States,Artificial Intelligence,50000000,Series B,Jan-20
+86,LaunchDarkly,http://launchdarkly.com,United States,B2B Software,54000000,Series D,Jan-20
+87,SiteMinder,https://www.siteminder.com/,Australia,B2B Software,70000000,Series C,Jan-20
+88,Personio,https://www.personio.com,Germany,Human Resources,75000000,Series C,Jan-20
+89,Element Biosciences,https://www.elementbiosciences.com/,United States,Biotechnology,80000000,Series B,Jan-20
+90,Verkada,https://www.verkada.com/,United States,Computer Vision,80000000,Series C,Jan-20
+91,Bounce,https://bounceshare.com/,India,Transportation,97500000,Series D,Jan-20
+92,ActiveCampaign,http://www.activecampaign.com,United States,B2B Software,100000000,Series B,Jan-20
+93,Livspace,http://www.livspace.com/,India,Marketplace,100000000,Series D,Jan-20
+94,Sisense,http://www.sisense.com,United States,B2B Software,100000000,Series F,Jan-20
+95,Qonto,https://www.qonto.eu,France,FinTech,115000000,Series C,Jan-20
+96,Joby Aviation,http://www.jobyaviation.com/,United States,Aerospace,590000000,Series C,Jan-20
+97,Gojek,https://www.gojek.io/,Indonesia,Food Delivery,1200000000,Series G,Mar-20
+98,Impossible Foods,https://impossiblefoods.com/,United States,Food and Beverage,500000000,Series F,Mar-20
+99,Bakkt,https://www.bakkt.com,United States,Blockchain,300000000,Series B,Mar-20
+100,Lilium,https://lilium.com/,Germany,Air Transportation,240000000,Series C,Mar-20
+101,Colonies,https://www.livecolonies.com/,France,Co-Living,200000000,Series B,Mar-20
+102,Via,https://www.ridewithvia.com,United States,Automotive,200000000,Series E,Mar-20
+103,HashiCorp,https://www.hashicorp.com,United States,Cyber Security,175000000,Series E,Mar-20
+104,ElevateBio,https://www.elevate.bio/,United States,Biotechnology,170000000,Series B,Mar-20
+105,InSightec,https://www.insightec.com,Israel,Health Care,150000000,Series F,Mar-20
+106,UserTesting,https://www.usertesting.com,United States,B2B Software,100000000,Series C,Mar-20
+107,Lyra Health,https://www.lyrahealth.com,United States,Employee Benefits,75000000,Series C,Mar-20
+108,Rigetti Computing,https://www.rigetti.com/,United States,Quantum Computing,71000000,Series D,Mar-20
+109,Everlaw,https://everlaw.com/,United States,Legal,62000000,Series C,Mar-20
+110,Axonius,https://www.axonius.com/,Israel,Cyber Security,58000000,Series C,Mar-20
+111,Netlify,https://www.netlify.com,United States,Web Development,53000000,Series C,Mar-20
+112,SpotOn,https://www.spoton.com,United States,FinTech,50000000,Series B,Mar-20
+113,mParticle,https://mparticle.com,United States,B2B Software,45000000,Series D,Mar-20
+114,Proxy,https://proxy.com/,United States,Augmented Reality,42000000,Series B,Mar-20
+115,Human Interest,https://rancher.com/,United States,Cloud Computing,40000000,Series C,Mar-20
+116,Rancher Labs,https://humaninterest.com/,United States,FinTech,40000000,Series C,Mar-20
+117,STRIVR,https://www.strivr.com,United States,Virtual Reality,30000000,Series B,Mar-20
+118,Orion Labs,https://www.orionlabs.io,United States,Enterprise,29000000,Series B,Mar-20
+119,Neolix,http://www.neolix.cn/,China,Autonomous Driving,28700000,Series A,Mar-20
+120,ÅURA,https://ouraring.com/,Finland,Fitness,28000000,Series B,Mar-20
+121,Sensel,https://www.sensel.com,United States,Consumer Electronics,28000000,Series A,Mar-20
+122,Remesh,https://remesh.ai,United States,Artificial Intelligence,25000000,Series A,Mar-20
+123,Airbase,https://www.airbase.com/,United States,FinTech,23500000,Series A,Mar-20
+124,Sourcegraph,https://sourcegraph.com,United States,Developer Platform,23000000,Series B,Mar-20
+125,Arkose Labs,https://pager.com/,United States,B2B Software,22000000,Series B,Mar-20
+126,Pager,https://www.arkoselabs.com/,United States,FinTech,22000000,Series B,Mar-20
+127,Fast,https://fast.co,United States,B2B Software,20000000,Series A,Mar-20
+128,Leaf Logistics,https://leaflogistics.com,United States,Logistics,20000000,Series A,Mar-20
+129,Suki,https://www.suki.ai,United States,Artificial Intelligence,20000000,Series B,Mar-20
+130,DeepCrawl,https://www.deepcrawl.com,United Kingdom,Marketing,19000000,Series B,Mar-20
+131,Le Wagon,https://www.lewagon.com,France,Education,19000000,Series A,Mar-20
+132,Mya Systems,https://mya.com,United States,Artificial Intelligence,18700000,Series C,Mar-20
+133,Quantum Machines,https://www.quantum-machines.co/,Israel,Quantum Computing,17500000,Series A,Mar-20
+134,Second Nature,https://www.secondnature.com,United States,E-Commerce,16399999,Series C,Mar-20
+135,Public.com,https://validere.com/,Canada,B2B Software,15000000,Series A,Mar-20
+136,Validere,https://public.com,United States,Finance,15000000,Series B,Mar-20
+137,Axis Security,https://www.axissecurity.com,United States,B2B Software,14000000,Series A,Mar-20
+138,Helm.ai,https://helm.ai,United States,Autonomous Vehicles,13000000,Seed,Mar-20
+139,Argent,https://www.argent.xyz,United Kingdom,Blockchain,12000000,Series A,Mar-20
+140,Deepgram,https://www.deepgram.com/,United States,B2B Software,12000000,Series A,Mar-20
+141,TWAICE,https://twaice.com/,Germany,Artificial Intelligence,11800000,Series A,Mar-20
+142,Quit Genius,https://slync.io,United States,B2B Software,11000000,Series A,Mar-20
+143,Rollbar,https://www.quitgenius.com,United States,Fitness,11000000,Series A,Mar-20
+144,UnitQ,https://rollbar.com,United States,B2B Software,11000000,Series B,Mar-20
+145,Slync.io,https://www.unitq.com/,United States,B2B Software,11000000,Series A,Mar-20
+146,SME Finance,https://www.smefinance.eu/,Lithuania,FinTech,10800000,Debt Financing,Mar-20
+147,Finix,https://ridereport.com/,United States,Transportation,10000000,Series A,Mar-20
+148,Forager,https://www.finixpayments.com,United States,FinTech,10000000,Series B,Mar-20
+149,Moffett,https://www.foragerscs.com/,United States,Logistics,10000000,Series A,Mar-20
+150,Ride Report,https://www.zeronorth.io,United States,Cyber Security,10000000,Series A,Mar-20
+151,ZeroNorth,https://moffett.ai/,United States,Artificial Intelligence,10000000,Angel,Mar-20
+152,DisruptOPS,https://www.disruptops.com,United States,Cyber Security,9000000,Series A,Mar-20
+153,Arweave,https://www.arweave.org/,United Kingdom,Blockchain,8300000,Seed,Mar-20
+154,Mainframe Industries,https://www.themainframe.com/,Finland,Gaming,8199999,Series A,Mar-20
+155,Allset,https://allsetnow.com/,United States,Food and Beverage,8199999,Series B,Mar-20
+156,Cleanshelf,https://www.cleanshelf.com,United States,B2B Software,8000000,Series A,Mar-20
+157,Zeto,https://zeto-inc.com/,United States,Health Care,7300000,Series A,Mar-20
+158,Yaguara,https://yaguara.co,United States,B2B Software,7200000,Seed,Mar-20
+159,Pathlight,https://www.pathlight.com/,United States,B2B Software,7000000,Series A,Mar-20
+160,VoxSmart,https://voxsmart.com/,United Kingdom,B2B Software,6600000,Series B,Mar-20
+161,Billon,https://www.billongroup.com,United Kingdom,Blockchain,6000000,Series A,Mar-20
+162,Around,https://www.around.co,United States,Video Software,5200000,Seed,Mar-20
+163,Convizit,https://convizit.com/,Israel,Artificial Intelligence,5000000,Seed,Mar-20
+164,Horizon Blockchain Games,https://horizon.io/,Canada,Blockchain,5000000,Seed,Mar-20
+165,Lingumi,https://www.lingumi.com/,United Kingdom,Education,4900000,Series A,Mar-20
+166,BackboneAI,https://backbone.ai,United States,Artificial Intelligence,4700000,Seed,Mar-20
+167,Perimeter 81,https://www.perimeter81.com,Israel,Cloud Security,4500000,Series A,Mar-20
+168,Field Intelligence,https://fieldintelligence.co/,Nigeria,Health Care,3600000,Series A,Mar-20
+169,Phemex,https://phemex.com/,Singapore,Blockchain,3500000,Seed,Mar-20
+170,ProCredEx,https://www.procredex.com/,United States,Health Care,3500000,Seed,Mar-20
+171,Payhawk,https://payhawk.com,United Kingdom,B2B Software,3300000,Seed,Mar-20
+172,Balancer Labs,https://balancer.finance/,United States,Blockchain,3000000,Seed,Mar-20
+173,Nourish3d,https://get-nourished.com/,United Kingdom,Personal Health,2500000,Seed,Mar-20
+174,Emma,https://emma-app.com,United Kingdom,FinTech,2500000,Seed,Mar-20
+175,Zabo,https://zabo.com,United States,Blockchain,2500000,Seed,Mar-20
+176,ZBiotics,https://www.zbiotics.com/,United States,Nutraceutical,2300000,Seed,Mar-20
+177,Penni.io,https://www.penni.io/,Denmark,Insurance,2200000,Seed,Mar-20
+178,InvestSuite,https://www.investsuite.com,Belgium,"Financial Services, FinTech",2100000,Seed,Mar-20
+179,Sounder.fm,https://sounder.fm/,United States,B2B Software,1800000,Seed,Mar-20
+180,Respeecher,https://respeecher.com/,Ukraine,Artificial Intelligence,1500000,Seed,Mar-20
+181,Strata,https://mutable.io,United States,Developer Tools,1500000,Seed,Mar-20
+182,Youverify,https://strataprop.com/,India,Real Estate,1500000,Seed,Mar-20
+183,Mutable,https://www.youverify.co,Nigeria,Cyber Security,1500000,Seed,Mar-20
+184,3D LifePrints,https://www.3dlifeprints.com,United Kingdom,3D Technology,1300000,Series A,Mar-20
+185,SalesReach,https://salesreach.io/,United States,Sales,1200000,Seed,Mar-20
+186,ChargeLab,https://www.chargelab.co/,Canada,Energy,1100000,Seed,Mar-20
+187,Datasaur,https://mod.io/,Australia,Developer Platform,1000000,Seed,Mar-20
+188,mod.io,https://www.datasaur.ai,United States,B2B Software,1000000,Seed,Mar-20
+189,Sonrai Analytics,https://sonraianalytics.com/,United Kingdom,B2B Software,900000,Seed,Mar-20
+190,Skyports,https://skyports.net/,United Kingdom,Drones,850000,Series A,Mar-20
+191,Ausha,https://www.ausha.co/,France,Audio Software,850000,Seed,Mar-20
+192,Closd,https://www.closd.com/,France,Legal,660000,Seed,Mar-20
+193,Arextech,https://arex.technology/,Canada,Real Estate,650000,Pre-Seed,Mar-20
+194,SalesRight,https://www.salesright.co,Canada,B2B Software,600000,Seed,Mar-20
+195,AKUOS,https://akuosmedical.com,Singapore,Health Care,500000,Seed,Mar-20
+196,Internxt,https://internxt.com/,Spain,Blockchain,268000,Seed,Mar-20
+197,Hallo,https://www.hallothere.com,United States,B2B Software,614000,Seed,Apr-20
+198,Aspen Neuroscience,https://www.aspenneuroscience.com/,United States,Biotechnology,70000000,Series A,Apr-20
+199,ITeos Therapeutics,http://iteostherapeutics.com/,Belgium,Biotechnology,125000000,Series B,Apr-20
+200,Kitchens Centre,https://kitchenscentre.com/,India,Food & Beverage,500000,Seed,Apr-20
+201,Tailscale,https://tailscale.com/,Canada,B2B Software,3000000,Seed,Apr-20
+202,Camp K12,https://campk12.com/,India,Consumer,4000000,Seed,Apr-20
+203,Concertio,https://concertio.com,United States,Artificial Intelligence,4000000,Seed,Apr-20
+204,Recko.io,https://www.recko.io/,India,B2B Software,6000000,Series A,Apr-20
+205,Phantom AI,http://www.phantom.ai,United States,Artificial Intelligence,22000000,Series A,Apr-20
+206,Screening Eagle Technologies,https://screeningeagle.com/,Switzerland,Cloud Management,57000000,Series A,Apr-20
+207,Collibra,http://www.collibra.com,Belgium,Enterprise,113000000,Series F,Apr-20
+208,4Paradigm,https://www.4paradigm.com/,China,Artificial Intelligence,230000000,Series C,Apr-20
+209,Lunar,https://lunar.app,Denmark,FinTech,22000000,Series B,Apr-20
+210,Tabit,http://www.tabit.cloud/,Israel,POS,35000000,Series B,Apr-20
+211,Ably Realtime,https://www.ably.io,United Kingdom,Cloud Computing,7000000,Series A,Apr-20
+212,Yapily,https://www.yapily.com/,United Kingdom,FinTech,13000000,Series A,Apr-20
+213,Pure Harvest Smart Farms,http://www.pureharvest.ae,United Arab Emirates,Agriculture,21000000,Series A,Apr-20
+214,SonderMind,https://www.sondermind.com/,United States,Health Care,27000000,Series B,Apr-20
+215,Everstream Solutions,http://everstream.net/,United States,Cloud Data Services,343000000,Debt Financing,Apr-20
+216,ContentCal,http://www.contentcal.io,United Kingdom,B2B Software,185000,Seed,Apr-20
+217,AEV Robotics,https://aevrobotics.com/,Australia,Automotive,3000000,Seed,Apr-20
+218,MixMode,http://www.mixmode.ai,United States,Artificial Intelligence,4000000,Series A,Apr-20
+219,Cadence,http://www.withcadence.io,United States,FinTech,4000000,Seed,Apr-20
+220,Arturo,https://www.arturo.ai,United States,Artificial Intelligence,8000000,Series A,Apr-20
+221,AlertMedia,https://www.alertmedia.com,United States,Enterprise Software,15000000,Series C,Apr-20
+222,Shippo,https://goshippo.com,United States,Logistics,30000000,Series C,Apr-20
+223,Glassbox,http://www.glassboxdigital.com,United Kingdom,Cloud Computing,40000000,Series C,Apr-20
+224,CircleCI,https://circleci.com/,United States,Cloud Computing,100000000,Series E,Apr-20
+225,Podium,https://www.podium.com,United States,B2B Software,125000000,Series C,Apr-20
+226,Luminovo,http://www.luminovo.ai,Germany,Artificial Intelligence,3000000,Pre-Seed,Apr-20
+227,Sila,https://silamoney.com,United States,FinTech,8000000,Seed,Apr-20
+228,IFM Restoration,https://ifmrestoration.com/,United States,Real Estate,10000000,Series A,Apr-20
+229,Neat,http://www.neat.hk,Hong Kong,FinTech,11000000,Series A,Apr-20
+230,Tonkean,https://tonkean.com,United States,B2B Software,24000000,Series A,Apr-20
+231,Wellpay,https://www.wellpay.com/,United States,FinTech,4000000,Seed,Apr-20
+232,SeeQC,https://seeqc.com/,United States,Quantum Computing,5000000,Series A,Apr-20
+233,Kate Farms,https://www.katefarms.com/,United States,Food and Beverage,23000000,Series A,Apr-20
+234,Bugcrowd,https://bugcrowd.com,United States,Cyber Security,30000000,Series D,Apr-20
+235,Thrasio,http://www.thras.io,United States,Investing,75000000,Series B,Apr-20
+236,Cohesity,http://www.cohesity.com/,United States,Cloud Computing,250000000,Series E,Apr-20
+237,Cloosiv,https://www.cloosiv.com,United States,Logistics,500000,Seed,Apr-20
+238,Solaire Box,https://www.solairebox.fr/,France,Building Construction,2000000,Seed,Apr-20
+239,Atlas AI,https://www.atlasai.co/,United States,Artificial Intelligence,7000000,Series A,Apr-20
+240,Clever Leaves,https://cleverleaves.com/,United States,Cannabis,14000000,Series E,Apr-20
+241,Beyond Identity,https://www.beyondidentity.com/,United States,"Clouyd Security, Software",30000000,Series A,Apr-20
+242,Rallybio,http://rallybio.com/,United States,Biotechnology,93000000,Series B,Apr-20
+243,Digital Commerce Intelligence,https://dci.ai,Singapore,Artificial Intelligence,702000,Seed,Apr-20
+244,Dashbird,https://dashbird.io/,Estonia,B2B Software,2000000,Seed,Apr-20
+245,Gembah,https://www.gembah.com/,United States,Manufacturing,3000000,Seed,Apr-20
+246,CleanSlate UV,https://www.cleanslateuv.com/,Canada,Medical Device,7000000,Series A,Apr-20
+247,Slite,http://slite.com,France,B2B Software,11000000,Series A,Apr-20
+248,FarEye,http://www.getfareye.com/,India,Logistics,25000000,Series D,Apr-20
+249,Alkira,https://www.alkira.com/,United States,Cloud Computing,30000000,Series A,Apr-20
+250,Coder,https://coder.com/,United States,Cloud Computing,30000000,Series B,Apr-20
+251,Choco,https://www.choco.com/,Germany,Food and Beverage,30000000,Series A,Apr-20
+252,Awake Security,http://www.awakesecurity.com,United States,Cloud Security,36000000,Series C,Apr-20
+253,Attentive,https://attentivemobile.com/,United States,B2B Software,40000000,Series C,Apr-20
+254,Gousto,https://www.gousto.co.uk/,United Kingdom,Food and Beverage,41000000,Series G,Apr-20
+255,Onfido,http://www.onfido.com,United Kingdom,Identity Management,100000000,Series D,Apr-20
+256,BioCatch,http://www.biocatch.com,Israel,Artificial Intelligence,145000000,Series C,Apr-20
+257,Toch,http://www.mytoch.com,India,Artificial Intelligence,400000,Seed,Apr-20
+258,Learn In,https://www.learnin.com/,United States,Education,4000000,Seed,Apr-20
+259,Everee,https://www.everee.com/,United States,FinTech,10000000,Series A,Apr-20
+260,Crypto Finance AG,https://www.cryptofinance.ch/,Switzerland,Blockchain,14000000,Series B,Apr-20
+261,Parsyl,https://www.parsyl.com/,United States,Supply Chain Management,15000000,Series A,Apr-20
+262,Greenbits,http://www.greenbits.com,United States,Cannabis,23000000,Series B,Apr-20
+263,Taxfix,http://taxfix.de,Germany,Accounting,65000000,Series C,Apr-20
+264,Stripe,https://stripe.com,United States,FinTech,600000000,Series G,Apr-20
+265,Blueprint,https://blueprint.store/,United Kingdom,B2B Software,1000000,Seed,Apr-20
+266,Benepass,http://www.getbenepass.com/,United States,B2B Software,2000000,Seed,Apr-20
+267,360VUZ,http://www.360vuz.com,United States,3D Technology,6000000,Series A,Apr-20
+268,Orchestra Group,http://www.orchestra.group,Israel,Cyber Security,8000000,Series A,Apr-20
+269,Unlearn,https://www.unlearn.health/,United States,Biotechnology,12000000,Series A,Apr-20
+270,Adverity,https://www.adverity.com/,Austria,Marketing,30000000,Series C,Apr-20
+271,Guru,http://www.getguru.com,United States,B2B Software,30000000,Series C,Apr-20
+272,env0,https://www.env0.com,United States,B2B Software,3000000,Seed,Apr-20
+273,Oyster,https://www.oysterhr.com/,United States,Recruiting,4000000,Seed,Apr-20
+274,Biobot Analytics,http://www.biobot.io/,United States,Biotechnology,7000000,Seed,Apr-20
+275,FORM,https://www.formswim.com,Canada,Consumer,8000000,Series A,Apr-20
+276,Moshi,https://www.moshisleep.com/,United Kingdom,Education,12000000,Series B,Apr-20
+277,Federated Wireless,http://www.federatedwireless.com,United States,Cloud Computing,14000000,Series C,Apr-20
+278,Profitero,http://www.profitero.com,Ireland,E-Commerce Platforms,20000000,Series B,Apr-20
+279,Vercel,https://vercel.com,United States,B2B Software,21000000,Series A,Apr-20
+280,ForgeRock,https://www.forgerock.com,United States,Cyber Security,94000000,Series E,Apr-20
+281,Confluent,https://confluent.io/,United States,B2B Software,250000000,Series E,Apr-20
+282,Nordic API Gateway,https://www.nordicapigateway.com/,Denmark,FinTech,5000000,Unknown,Apr-20
+283,Hugo,http://www.hugo.team,United States,B2B Software,6000000,Seed,Apr-20
+284,XRHealth,http://www.xr.health/,United States,Health Care,7000000,Unknown,Apr-20
+285,Remote,https://www.remote.com,United States,B2B Software,11000000,Seed,Apr-20
+286,Noah,https://www.noah.co,United States,FinTech,150000000,Series B,Apr-20
+287,Peak,https://peak.ai,United Kingdom,Artificial Intelligence,12000000,Series A,Apr-20
+288,Randori,https://www.randori.com/,United States,Cloud Computing,20000000,Series A,Apr-20
+289,Digits,https://www.digits.com/,United States,FinTech,22000000,Series B,Apr-20
+290,Miro,http://miro.com,United States,B2B Software,50000000,Series B,Apr-20
+291,AvidXchange,http://www.avidxchange.com,United States,FinTech,128000000,Series F,Apr-20
+292,Corsight AI,https://corsight.ai/,United States,Artificial Intelligence,5000000,Seed,Apr-20
+293,CureMint,https://www.CureMint.io,United States,B2B Software,1000000,Seed,Apr-20
+294,DeepSea Technologies,https://deepsea.ai/,Greece,Logistics,3000000,Series A,Apr-20
+295,Walrus.ai,https://walrus.ai/,United States,B2B Software,4000000,Seed,Apr-20
+296,Omura,https://www.omura.com/,United States,Cannabis,5000000,Seed,Apr-20
+297,Tinvio,https://www.tinvio.com/,Singapore,B2B Software,6000000,Seed,Apr-20
+298,Terra Quantum,https://terraquantum.ch/,Switzerland,Quantum Computing,11000000,Unknown,Apr-20
+299,Codota,https://www.codota.com,Israel,Artificial Intelligence,12000000,Series A,Apr-20
+300,Factorial,https://factorialhr.com/,Spain,B2B Software,16000000,Series A,Apr-20
+301,Brain Corp,http://www.braincorp.com/,United States,Robotics,36000000,Series D,Apr-20
+302,Inceptio Technology,https://en.inceptio.ai/,China,Automotive,100000000,Series A,Apr-20
+303,Checkly,https://checklyhq.com/,Germany,B2B Software,2000000,Seed,Apr-20
+304,Logmore,https://www.logmore.com/,Finland,Logistics,5000000,Series A,Apr-20
+305,Glofox,https://www.glofox.com,Ireland,B2B Software,10000000,Series A,Apr-20
+306,Topia,http://www.topia.com,United States,Human Resources,15000000,Series D,Apr-20
+307,Secret Double Octopus,https://doubleoctopus.com/,Israel,Cyber Security,15000000,Series B,Apr-20
+308,Scopio Labs,http://www.scopiolabs.com/,Israel,Artificial Intelligence,16000000,Series B,Apr-20
+309,Tecton,https://tecton.ai/,United States,Machine Learning,20000000,Series A,Apr-20
+310,Oriente,http://oriente.com/,Hong Kong,FinTech,50000000,Series B,Apr-20
+311,SkyCell,http://www.skycell.ch,Switzerland,Logistics,62000000,Unknown,Apr-20
+312,Platypus,https://www.platypus.io/,Denmark,Human Resources,3000000,Seed,Apr-20
+313,ANYVERSE,https://anyverse.ai/,Spain,Autonomous Vehicles,3000000,Series A,Apr-20
+314,Deliverect,https://deliverect.com,Belgium,B2B Software,16000000,Series B,Apr-20
+315,Catalyst,https://catalyst.io/,United States,B2B Software,25000000,Series B,Apr-20
+316,Niche.com,http://niche.com,United States,Education,35000000,Series C,Apr-20
+317,Mojo Vision,https://www.mojo.vision/,United States,Augmented Reality,51000000,Series B,Apr-20
+318,AMPLYFI,https://www.amplyfigroup.com/,United Kingdom,Artificial Intelligence,5000000,Series A,Apr-20
+319,Lifebit,http://lifebit.ai,United Kingdom,Artificial Intelligence,8000000,Series A,Apr-20
+320,Josh.ai,https://www.josh.ai/,United States,Artificial Intelligence,11000000,Series A,Apr-20
+321,Otonomo,http://www.otonomo.io/,Israel,Autonomous Vehicles,46000000,Series C,Apr-20
+322,Figma,http://figma.com,United States,Design Software,50000000,Series D,Apr-20
+323,Nexar,https://getnexar.com/,Israel,Transportation,52000000,Series C,Apr-20
+324,XWING,https://xwing.com/,United States,Aerospace,10000000,Series A,May-20
+325,BeeHero,https://www.beehero.io/,United States,Agriculture,4000000,Seed,May-20
+326,DevicePilot,https://www.devicepilot.com/,United Kingdom,Analytics,2000000,Seed,May-20
+327,Ziva Dynamics,http://zivadynamics.com/,Canada,Animation,7000000,Seed,May-20
+328,Omilia,https://omilia.com,Cyprus,Artificial Intelligence,20000000,Series A,May-20
+329,Boosted.ai,https://boosted.ai,Canada,Artificial Intelligence,8000000,Series A,May-20
+330,Invisible AI,https://www.invisible.ai,United States,Artificial Intelligence,4000000,Seed,May-20
+331,Rotageek,http://www.rotageek.com,United Kingdom,Artificial Intelligence,7000000,Unknown,May-20
+332,Slimmer,https://slimmer.ai/,The Netherlands,Artificial Intelligence,4000000,Unknown,May-20
+333,Vise,https://viseai.com/,United States,Artificial Intelligence,15000000,Series A,May-20
+334,Deep Labs,https://www.deep-labs.com,United States,Artificial Intelligence,16000000,Series A,May-20
+335,Lilt,http://www.lilt.com/,United States,Artificial Intelligence,25000000,Series B,May-20
+336,FortressIQ,https://www.fortressiq.com/,United States,Artificial Intelligence,30000000,Series B,May-20
+337,Paradox,https://www.paradox.ai/,United States,Artificial Intelligence,40000000,Series B,May-20
+338,Directly,https://www.directly.com,United States,Artificial Intelligence,11000000,Series B,May-20
+339,Decibel,https://decibel.com/,United Kingdom,Artificial Intelligence,40000000,Series B,May-20
+340,D-ID,https://www.deidentification.co/,Israel,Artificial Intelligence,14000000,Series A,May-20
+341,Cogent Labs,https://www.cogent.co.jp/en/,Japan,Artificial Intelligence,20000000,Series C,May-20
+342,DefinedCrowd,https://www.definedcrowd.com/,United States,Artificial Intelligence,51000000,Series B,May-20
+343,Datch,https://www.datch.io,United States,Audio Tech,3000000,Seed,May-20
+344,Poplar,https://www.poplar.studio,United Kingdom,Augmented Reality,2000000,Seed,May-20
+345,Motovis,http://www.motovis.cn/,China,Autonomous Vehicles,14000000,Series A,May-20
+346,Waymo,http://www.waymo.com/,United States,Autonomous Vehicles,750000000,Unknown,May-20
+347,ASAPP,http://www.asapp.com,United States,B2B Software,185000000,Series B,May-20
+348,NuxtJS,https://nuxtjs.org,France,B2B Software,2000000,Seed,May-20
+349,Procore,http://www.procore.com,United States,B2B Software,150000000,Unknown,May-20
+350,GraphCMS,https://graphcms.com/,Germany,B2B Software,3000000,Seed,May-20
+351,Instabug,https://instabug.com/,United States,B2B Software,5000000,Series A,May-20
+352,Qwilr,http://www.qwilr.com,Australia,B2B Software,7000000,Series A,May-20
+353,Daily.co,https://daily.co,United States,B2B Software,5000000,Seed,May-20
+354,Jellyfish,http://jellyfish.co,United States,B2B Software,12000000,Series A,May-20
+355,Postal.io,https://postal.io,United States,B2B Software,9000000,Series A,May-20
+356,Sleuth,https://www.sleuth.io/,United States,B2B Software,3000000,Seed,May-20
+357,Knock,https://www.knockcrm.com/,United States,B2B Software,12000000,Series B,May-20
+358,Stardog,http://stardog.com/,United States,B2B Software,3000000,Series B,May-20
+359,Groove,https://www.groove.co/,United States,B2B Software,12000000,Series A,May-20
+360,Locatee,http://www.locatee.com,Switzerland,B2B Software,4000000,Series A,May-20
+361,FoodRazor,https://foodrazor.com/,Singapore,B2B Software,900000,Seed,May-20
+362,IntelliBoard,https://www.intelliboard.net,United States,B2B Software,3000000,Series A,May-20
+363,Briq,https://www.br.iq/,United States,B2B Software,10000000,Series A,May-20
+364,UpKeep,http://www.onupkeep.com,United States,B2B Software,36000000,Series B,May-20
+365,MemSQL,http://www.memsql.com,United States,B2B Software,50000000,Debt Financing,May-20
+366,Happeo,https://www.happeo.com,Finland,B2B Software,12000000,Series A,May-20
+367,Truework,https://www.truework.com,United States,B2B Software,30000000,Series B,May-20
+368,Bevy,https://bevy.com,United States,B2B Software,15000000,Series B,May-20
+369,Contentsquare,http://www.contentsquare.com/,France,B2B Software,190000000,Series D,May-20
+370,Strapi,https://www.strapi.io/,France,B2B Software,10000000,Series A,May-20
+371,Deel,https://www.letsdeel.com/,United States,B2B Software,14000000,Series A,May-20
+372,BetterCloud,https://www.bettercloud.com,United States,B2B Software,75000000,Series F,May-20
+373,PXL Vision,https://pxl-vision.com/,Switzerland,B2B Software,5000000,Seed,May-20
+374,RapidAPI,https://www.rapidapi.com,United States,B2B Software,25000000,Series B,May-20
+375,Brainbase,https://brainbase.com,United States,B2B Software,8000000,Series A,May-20
+376,Amplitude,http://amplitude.com,United States,B2B Software,50000000,Series E,May-20
+377,Command E,https://getcommande.com/,United States,B2B Software,4000000,Seed,May-20
+378,New Vector,https://vector.im/,United Kingdom,B2B Software,5000000,Series A,May-20
+379,Encamp,https://www.encamp.com/,United States,B2B Software,3000000,Series A,May-20
+380,Run The World,https://www.runtheworld.today/,United States,B2B Software,11000000,Series A,May-20
+381,FullStory,https://www.fullstory.com,United States,B2B Software,10000000,Unknown,May-20
+382,Spectrm,http://www.spectrm.io,United States,B2B Software,3000000,Series A,May-20
+383,Aircall,https://aircall.io/,France,B2B Software,65000000,Series C,May-20
+384,Bloobirds,http://www.bloobirds.com,Spain,B2B Software,3000000,Series A,May-20
+385,Gatsby,https://www.gatsbyjs.org/,United States,B2B Software,28000000,Series B,May-20
+386,Census,https://www.getcensus.com/,United States,B2B Software,4000000,Seed,May-20
+387,Baton,https://www.hellobaton.com/,United States,B2B Software,10000000,Series A,May-20
+388,LaterPay,https://laterpay.net/,United States,B2B Software,10000000,Unknown,May-20
+389,RudderStack,https://rudderstack.com/,United States,B2B Software,5000000,Seed,May-20
+390,Nanit,https://www.nanit.com/,United States,Baby,21000000,Series B,May-20
+391,SQZ Biotech,http://sqzbiotech.com,United States,Biotechnology,65000000,Series D,May-20
+392,ChromaCode,http://chromacode.com/,United States,Biotechnology,10000000,Series C,May-20
+393,Benchling,https://www.benchling.com,United States,Biotechnology,50000000,Series D,May-20
+394,AbCellera,https://www.abcellera.com/,Canada,Biotechnology,105000000,Series B,May-20
+395,NEAR,https://near.org/,United States,Blockchain,22000000,ICO,May-20
+396,HUB Security,https://hubsecurity.io/,Israel,Blockchain,5000000,Series A,May-20
+397,Lolli,https://www.lolli.com,United States,Blockchain,3000000,Seed,May-20
+398,Blockdaemon,https://blockdaemon.com,United States,Blockchain,6000000,Unknown,May-20
+399,FalconX,http://www.falconx.io,United States,Blockchain,17000000,Unknown,May-20
+400,Bitcoin Suisse,https://www.bitcoinsuisse.ch/,Switzerland,Blockchain,21000000,Series A,May-20
+401,TokenSoft,https://www.tokensoft.io,United States,Blockchain,4000000,Unknown,May-20
+402,Magic,https://magic.link,United States,Blockchain,4000000,Seed,May-20
+403,Charityvest,https://www.charityvest.org,United States,Charity,1000000,Pre-Seed,May-20
+404,GigaSpaces,https://www.gigaspaces.com/,United States,Cloud Computing,12000000,Unknown,May-20
+405,Virtana,https://www.virtana.com/,United States,Cloud Computing,15000000,Unknown,May-20
+406,DigitalOcean,https://www.digitalocean.com,United States,Cloud Computing,50000000,Series C,May-20
+407,evervault,https://evervault.com/,Ireland,Cloud Computing,16000000,Series A,May-20
+408,Couchbase,http://www.couchbase.com,United States,Cloud Computing,105000000,Series G,May-20
+409,Cinchy,http://www.cinchy.com,Canada,Cloud Computing,10000000,Series A,May-20
+410,Skyflow,https://www.skyflow.com,United States,Cloud Security,8000000,Seed,May-20
+411,Aqua Security,https://www.aquasec.com,Israel,Cloud Security,30000000,Series D,May-20
+412,Enview,https://www.enview.com/,United States,Computer Vision,12000000,Unknown,May-20
+413,Scandit,https://www.scandit.com/,Switzerland,Computer Vision,80000000,Series C,May-20
+414,MakeSpace,https://makespace.com/,United States,Consumer,45000000,Series E,May-20
+415,Growth Tribe,http://www.growthtribe.io,The Netherlands,Corporate Training,3000000,Series A,May-20
+416,GO1,http://www.go1.com/,Australia,Corporate Training,40000000,Series C,May-20
+417,Ermetic,https://www.ermetic.com/,Israel,Cyber Security,10000000,Unknown,May-20
+418,Coalition,https://www.coalitioninc.com/,United States,Cyber Security,90000000,Series C,May-20
+419,Synack,https://www.synack.com/,United States,Cyber Security,52000000,Series D,May-20
+420,Tugboat Logic,https://www.tugboatlogic.com,United States,Cyber Security,8000000,Series A,May-20
+421,Nautilus Data,http://www.nautilusdt.com,United States,Data Center,100000000,Debt Financing,May-20
+422,Yardbird,https://yardbird.com/,United States,E-Commerce,4000000,Unknown,May-20
+423,Bluecore,https://www.bluecore.com/,United States,E-Commerce Platforms,50000000,Series D,May-20
+424,BlackCart,https://blackcart.com,Canada,E-Commerce Platforms,2000000,Seed,May-20
+425,Commerce Layer,http://commercelayer.io,Italy,E-Commerce Platforms,6000000,Series A,May-20
+426,Tapcart,https://www.tapcart.com,United States,E-Commerce Software,10000000,Series A,May-20
+427,Preezie,http://preezie.com/,Australia,E-Commerce Software,575000,Seed,May-20
+428,Ecwid,https://www.ecwid.com,United States,E-Commerce Software,42000000,Unknown,May-20
+429,ApplyBoard,https://www.applyboard.com/,Canada,Education,71000000,Series C,May-20
+430,Quizlet,https://quizlet.com,United States,Education,30000000,Series C,May-20
+431,MasterClass,http://www.masterclass.com,United States,Education,100000000,Series E,May-20
+432,VanMoof,https://www.vanmoof.com,The Netherlands,Electric Vehicle,14000000,Unknown,May-20
+433,Tankfarm,http://www.tankfarmgroup.com,United States,Energy,4000000,Series A,May-20
+434,Modulr,https://www.modulrfinance.com/,United Kingdom,Finance,23000000,Unknown,May-20
+435,Robinhood,https://www.robinhood.com/,United States,FinTech,280000000,Series F,May-20
+436,LUXHUB,https://www.luxhub.com/,Luxembourg,FinTech,8000000,Debt Financing,May-20
+437,N26,https://n26.com,Germany,FinTech,100000000,Series D,May-20
+438,Treasury Prime,https://treasuryprime.com/,United States,FinTech,9000000,Series A,May-20
+439,Banked,https://banked.com/,United Kingdom,FinTech,3000000,Seed,May-20
+440,Judo Bank,https://www.judo.bank,Australia,FinTech,149000000,Series C,May-20
+441,Primer,https://primer.io/,United Kingdom,FinTech,4000000,Seed,May-20
+442,Limepay,https://www.limepay.com.au/,Australia,FinTech,6000000,Angel,May-20
+443,Clyde,https://www.joinclyde.com/,United States,FinTech,14000000,Series A,May-20
+444,Aspiration,https://www.aspiration.com,United States,FinTech,135000000,Series C,May-20
+445,Brex,https://brex.com,United States,FinTech,150000000,Series C,May-20
+446,Unifimoney,https://unifi.money,United States,FinTech,1000000,Pre-Seed,May-20
+447,Fundbox,http://www.fundbox.com,United States,FinTech,20000000,Series C,May-20
+448,Belvo,https://belvo.co/,Mexico,FinTech,10000000,Seed,May-20
+449,Starling Bank,https://www.starlingbank.com/,United Kingdom,FinTech,49000000,Unknown,May-20
+450,Tock,https://www.exploretock.com/,United States,Food and Beverage,10000000,Series C,May-20
+451,Integriculture,http://integriculture.jp/,Japan,Food and Beverage,7000000,Series A,May-20
+452,Featurespace,https://www.featurespace.com/,United Kingdom,Fraud Detection,37000000,Unknown,May-20
+453,Mindstrong,https://mindstrong.com/,United States,Health Care,100000000,Series C,May-20
+454,Tia,http://www.asktia.com/,United States,Health Care,24000000,Series A,May-20
+455,Insitro,http://www.insitro.com/,United States,Health Care,143000000,Series B,May-20
+456,VNDLY,https://vndly.com/,United States,Human Resources,9000000,Series B,May-20
+457,Compt,https://www.compt.io/,United States,Human Resources,2000000,Seed,May-20
+458,Workstream,https://www.workstream.us/,United States,Human Resources,10000000,Series A,May-20
+459,Human Interest,https://humaninterest.com/,United States,Human Resources,10000000,Series C,May-20
+460,Almanac,https://almanac.io/,United States,Knowledge Management,9000000,Seed,May-20
+461,Shiprocket,https://www.shiprocket.in,India,Logistics,13000000,Series C,May-20
+462,DispatchTrack,https://www.dispatchtrack.com/,United States,Logistics,144000000,Unknown,May-20
+463,AerialSphere,https://www.aerialsphere.com/,United States,Mapping,5000000,Series A,May-20
+464,PlayPlay,https://playplay.com,France,Marketing,11000000,Series A,May-20
+465,Stringr,http://www.stringr.com,United States,Media,6000000,Series A,May-20
+466,Podimo,https://podimo.com/,Denmark,Podcasting,17000000,Series A,May-20
+467,Quantum Motion Technologies,http://www.quantummotion.tech,United Kingdom,Quantum Computing,10000000,Series A,May-20
+468,Homeward,https://www.homeward.com/,United States,Real Estate,85000000,Debt Financing,May-20
+469,States Title,http://www.statestitle.com,United States,Real Estate,123000000,Series C,May-20
+470,Spruce Holdings,https://www.spruce.co/,United States,Real Estate,29000000,Series B,May-20
+471,SmartRent,https://www.smartrent.com/,United States,Real Estate,60000000,Series C,May-20
+472,Traitify,http://traitify.com/,United States,Recruiting,12000000,Series B,May-20
+473,SVT Robotics,https://svtrobotics.com/,United States,Robotics,4000000,Seed,May-20
+474,Covariant,https://covariant.ai/,United States,Robotics,40000000,Series B,May-20
+475,Tripgrid,http://www.tripgrid.com,United States,Travel,2000000,Series A,May-20
+476,Hopper,http://www.hopper.com,Canada,Travel,70000000,Unknown,May-20
+477,Fly Now Pay Later,https://flynowpaylater.com,United Kingdom,Travel,42000000,Series A,May-20
+478,Big Sky Health,https://www.bigskyhealth.com/,United States,Wellness,8000000,Series A,May-20
+479,Zeleros,https://www.zeleros.com/,Spain,Air Transportation,7790000,Series A,Jun-20
+480,Ezra AI,http://www.ezra.ai/,United States,Artificial Intelligence,18000000,Series A,Jun-20
+481,OTTO Motors,http://ottomotors.com,Canada,Autonomous Vehicles,29000000,Series C,Jun-20
+482,Bonusly,https://bonus.ly,United States,Human Resources,9000000,Series A,Jun-20
+483,Beacon,https://beacon.com/,United Kingdom,Logistics,15000000,Series A,Jun-20
+484,Beam,https://www.ridebeam.com/,Singapore,Transportation,26000000,Series A,Jun-20
+485,Spaced Ventures,http://www.spacedventures.com,United States,Venture Capital,150000,Pre-Seed,Jun-20
+486,Vara,https://www.varahealthcare.com/,Germany,Artificial Intelligence,7000000,Series A,Jun-20
+487,Vetty,http://vetty.co/,United States,B2B Software,4000000,Seed,Jun-20
+488,Climeworks,http://www.climeworks.com,Switzerland,CleanTech,76168932,Unknown,Jun-20
+489,Vention,https://www.vention.io,Canada,Robotics,28126792,Series B,Jun-20
+490,Locus Robotics,https://locusrobotics.com/,United States,Robotics,40000000,Series D,Jun-20
+491,1touch.io,http://1touch.io/,United States,Artificial Intelligence,14000000,Series A,Jun-20
+492,Verne Global,https://verneglobal.com/,United Kingdom,Artificial Intelligence,27000000,Unknown,Jun-20
+493,Anvil,https://useanvil.com,United States,B2B Software,5000000,Series A,Jun-20
+494,Betterview,https://www.betterview.com,United States,B2B Software,7500000,Series B,Jun-20
+495,Watchful,https://watchful.ai,Israel,Business Intelligence,3000000,Seed,Jun-20
+496,Lili,http://www.lili.co,United States,FinTech,10000000,Seed,Jun-20
+497,Varo Money,http://www.varomoney.com/,United States,FinTech,241000000,Series D,Jun-20
+498,Keelvar,https://www.keelvar.com,Ireland,Artificial Intelligence,18029001,Series A,Jun-20
+499,CAST AI,https://www.cast.ai/,United States,B2B Software,7664035,Seed,Jun-20
+500,BRYTER,https://www.bryter.io/,Germany,B2B Software,16000000,Series A,Jun-20
+501,Hyperscience,http://www.hyperscience.com,United States,Business Intelligence,60000000,Series C,Jun-20
+502,Inky,https://inky.com,United States,Cyber Security,20000000,Series B,Jun-20
+503,euNetworks Group,http://www.eunetworks.com,United Kingdom,Telecommunications,281703154,Unknown,Jun-20
+504,Bitsensing,http://www.bitsensing.com,South Korea,Autonomous Vehicles,5800000,Seed,Jun-20
+505,EqualTo,https://www.equalto.com/,Germany,B2B Software,565202,Pre-Seed,Jun-20
+506,ClassTag,https://www.classtag.com,United States,B2B Software,5000000,Seed,Jun-20
+507,Chargeback,https://chargeback.com,United States,Fraud Detection,6600000,Series A,Jun-20
+508,Merge,https://mergeapp.co.za/,South Africa,Investing,100000,Seed,Jun-20
+509,Lilium,https://lilium.com/,Germany,Air Transportation,35000000,Unknown,Jun-20
+510,Sharework,https://www.sharework.co/,France,B2B Software,3513022,Seed,Jun-20
+511,Squire,http://www.getsquire.com,United States,B2B Software,27000000,Series B,Jun-20
+512,Silverfin,http://www.getsilverfin.com/en,Belgium,B2B Software,30000000,Series B,Jun-20
+513,DNAnexus,https://www.dnanexus.com/,United States,Biotechnology,100000000,Series G,Jun-20
+514,Scailyte,http://www.scailyte.com,Switzerland,Biotechnology,3259291,Series A,Jun-20
+515,Yugabyte,https://www.yugabyte.com,United States,Cloud Computing,30000000,Series B,Jun-20
+516,M1 Finance,https://www.m1finance.com/,United States,FinTech,33000000,Series B,Jun-20
+517,Planck,http://planckdata.com,United States,Artificial Intelligence,16000000,Series B,Jun-20
+518,EnsoData,https://www.ensodata.com,United States,Artificial Intelligence,9000000,Series A,Jun-20
+519,Canopy,https://canopy.io,United States,B2B Software,1907983,Seed,Jun-20
+520,Transcend,https://transcend.io,United States,B2B Software,25000000,Series A,Jun-20
+521,Flatfile,https://flatfile.io/,United States,B2B Software,7600000,Seed,Jun-20
+522,Domino Data Lab,https://www.dominodatalab.com,United States,B2B Software,43000000,Series E,Jun-20
+523,Vendr,https://www.vendr.com,United States,B2B Software,4000000,Seed,Jun-20
+524,Cue,https://cue.me,United States,Biotechnology,100000000,Series C,Jun-20
+525,NS8,https://www.ns8.com,United States,Cyber Security,123000000,Series A,Jun-20
+526,Intellispark,http://www.intellispark.com,United States,Education,2300000,Seed,Jun-20
+527,Protera,https://proterabio.com/,United States,Food and Beverage,5600000,Series A,Jun-20
+528,Alpha Health,https://alphahealth.com/,United States,Health Care,20000000,Series A,Jun-20
+529,RapidSOS,https://rapidsos.com/,United States,Health Care,21000000,Series C,Jun-20
+530,AdLaunch,http://www.adlaunch.com,Finland,Marketing,220000,Seed,Jun-20
+531,SuperAnnotate,https://www.superannotate.ai/,United States,Artificial Intelligence,3000000,Seed,Jun-20
+532,Postman,https://www.postman.com/,United States,B2B Software,150000000,Series C,Jun-20
+533,Spike,https://spikenow.com,Israel,B2B Software,8000000,Series A,Jun-20
+534,Quolum,https://quolum.com/,United States,B2B Software,2750000,Seed,Jun-20
+535,Celsius Network,https://celsius.network/,United Kingdom,Blockchain,15000000,ICO,Jun-20
+536,Ethyca,https://ethyca.com,United States,Cyber Security,13500000,Series A,Jun-20
+537,iBanFirst,http://www.ibanfirst.com,Belgium,FinTech,23863121,Series C,Jun-20
+538,Codat,https://www.codat.io,United Kingdom,FinTech,10000000,Series A,Jun-20
+539,Headspace,http://www.headspace.com,United States,Health Care,47700000,Series C,Jun-20
+540,WiBotic,http://www.wibotic.com,United States,Robotics,5700000,Series A,Jun-20
+541,Augmedics,https://www.augmedics.com/,United States,Augmented Reality,15000000,Series B,Jun-20
+542,Shattuck Labs,http://www.shattucklabs.com/,United States,Biotechnology,118000000,Series B,Jun-20
+543,Kalderos,http://kalderos.com,United States,Health Care,28000000,Series B,Jun-20
+544,Localised,http://www.localised.com,United States,Marketing,6500000,Series A,Jun-20
+545,Tracklib,http://www.tracklib.com/,Sweden,Music,4500000,Seed,Jun-20
+546,Wingly,https://www.wingly.io,France,Aerospace,3397166,Series A,Jun-20
+547,Gaze,https://gaze.ai/,Bangladesh,Artificial Intelligence,830000,Seed,Jun-20
+548,Streamlit,https://www.streamlit.io,United States,B2B Software,21000000,Series A,Jun-20
+549,Clockwise,https://www.getclockwise.com/,United States,B2B Software,18000000,Series B,Jun-20
+550,DeepSource,https://deepsource.io,United States,B2B Software,2600000,Seed,Jun-20
+551,Starburst,https://www.starburstdata.com/,United States,B2B Software,42000000,Series B,Jun-20
+552,Kasada,https://www.kasada.io/,Australia,Cloud Security,10000000,Series B,Jun-20
+553,Salt Security,https://salt.security/,United States,Cloud Security,20000000,Series A,Jun-20
+554,Monzo,https://monzo.com/,United Kingdom,FinTech,75935717,Series G,Jun-20
+555,Hydrow,https://hydrow.com/,United States,Fitness,25000000,Series B,Jun-20
+556,Akia,https://akia.ai,United States,Hospitality,1000000,Seed,Jun-20
+557,IonQ,https://ionq.co,United States,Quantum Computing,7000000,Series B,Jun-20
+558,Admix,https://admixplay.com/,United Kingdom,Advertising,7000000,Series A,Jun-20
+559,Contentful,https://www.contentful.com,Germany,B2B Software,80000000,Series E,Jun-20
+560,Unbounce,https://unbounce.com/,Canada,B2B Software,38297612,Series A,Jun-20
+561,Onna,https://onna.com,United States,B2B Software,27000000,Series B,Jun-20
+562,Arena.im,https://arena.im,United States,B2B Software,2300000,Seed,Jun-20
+563,River Financial,https://www.river.com,United States,Blockchain,5700000,Seed,Jun-20
+564,Unum ID,https://www.unumid.org,United States,Blockchain,2000000,Seed,Jun-20
+565,CounterCraft,https://www.countercraft.eu,Spain,Cyber Security,5000000,Seed,Jun-20
+566,Kymatio,http://kymatio.com,Spain,Cyber Security,820758,Seed,Jun-20
+567,DroneBase,http://www.dronebase.com,United States,Drones,7500000,Series C,Jun-20
+568,Pagaya Investments,https://www.pagaya.com/,United States,FinTech,102000000,Series D,Jun-20
+569,Botkeeper,https://www.botkeeper.com/,United States,Accounting,25000000,Series B,Jun-20
+570,HASH,https://hash.ai,United States,Artificial Intelligence,2500000,Seed,Jun-20
+571,Urbint,https://www.urbint.com,United States,Artificial Intelligence,20000000,Series B,Jun-20
+572,Maystreet,https://maystreet.com/,United States,B2B Software,21000000,Series A,Jun-20
+573,Acquire,https://www.acquire.io,United States,B2B Software,6400000,Series A,Jun-20
+574,Copado,https://copado.com/,Spain,B2B Software,26000000,Series B,Jun-20
+575,Big Health,https://www.bighealth.com/,United States,Fitness,39000000,Series B,Jun-20
+576,Back,https://backhq.com,Germany,Human resources,3300000,Seed,Jun-20
+577,Kaia Health,http://www.kaiahealth.com,United States,Wellbeing,26000000,Series B,Jun-20
+578,Canva,https://www.canva.com,Australia,B2B Software,60000000,Unknown,Jun-20
+579,Blueye Robotics,https://www.blueye.no/,Norway,Drones,104562,Unknown,Jun-20
+580,Realife Tech,https://realifetech.com/,United Kingdom,Events,7200000,Series A,Jun-20
+581,Elucidate,https://www.elucidate.co,Germany,FinTech,2819433,Seed,Jun-20
+582,Checkout.com,https://www.checkout.com,United Kingdom,FinTech,150000000,Series B,Jun-20
+583,Omise,https://www.omise.co/,Thailand,FinTech,80000000,Series C,Jun-20
+584,CrossTower,https://crosstower.com/,United States,FinTech,6000000,Seed,Jun-20
+585,Propoly,https://www.propoly.com,United Kingdom,Real Estate,2750130,Series A,Jun-20
+586,Rasa,https://rasa.com,United States,Artificial Intelligence,26000000,Series B,Jun-20
+587,Urjanet,https://urjanet.com,United States,B2B Software,14650000,Series D,Jun-20
+588,Nylas,https://www.nylas.com,United States,B2B Software,25000000,Series B,Jun-20
+589,Humi HR,https://www.humi.ca,Canada,B2B Software,8861385,Series A,Jun-20
+590,Humanly,https://humanly.io/,United States,B2B Software,800000,Seed,Jun-20
+591,Privitar,https://www.privitar.com,United Kingdom,Cyber Security,7000000,Series C,Jun-20
+592,Memo Bank,https://memo.bank,France,FinTech,22625304,Series B,Jun-20
+593,BrightInsight,https://brightinsight.com/,United States,Health Care,40000000,Series B,Jun-20
+594,Horizon Quantum Computing,http://horizonquantum.com/,Singapore,Quantum Computing,2350000,Seed,Jun-20
+595,NextRetreat,https://NextRetreat.com,United Kingdom,Travel,600000,Seed,Jun-20
+596,ClickUp,https://www.clickup.com,United States,B2B Software,35000000,Series A,Jun-20
+597,Cape Privacy,https://capeprivacy.com/,United States,B2B Software,5000000,Seed,Jun-20
+598,Lightrun,https://lightrun.com/,United States,B2B Software,4000000,Seed,Jun-20
+599,SQream Technologies,https://sqream.com,Israel,Cloud Computing,39400000,Series B,Jun-20
+600,Code Intelligence,https://www.code-intelligence.com/,Germany,Cloud Security,2250225,Series A,Jun-20
+601,Trusting Social,https://www.trustingsocial.com/,United States,FinTech,19000000,Series B,Jun-20
+602,Pipe,https://www.pipe.com,United States,FinTech,60000000,Seed,Jun-20
+603,OJO,https://ojo.com,United States,Real Estate,62500000,Series D,Jun-20
+604,HelloOffice,https://www.hellooffice.com,United States,Real Estate,20000000,Series A,Jun-20
+605,Ubble.ai,https://www.ubble.ai/,France,Artificial Intelligence,11215389,Seed,Jun-20
+606,FireStart,https://www.firestart.com,United States,B2B Software,4486155,Series A,Jun-20
+607,api.video,https://api.video,France,B2B Software,4650000,Seed,Jun-20
+608,Hopin,https://hopin.to,United Kingdom,B2B Software,40000000,Series A,Jun-20
+609,Intigriti,https://www.intigriti.com,Belgium,Cloud Security,4643171,Series A,Jun-20
+610,Capital Markets Gateway,https://cmgx.io/,United States,FinTech,25000000,Series B,Jun-20
+611,Karat,https://www.trykarat.com/,United States,FinTech,4600000,Seed,Jun-20
+612,Candidate Labs,https://candidatelabs.com,United States,Recruiting,5000000,Seed,Jun-20
+613,Codefresh,https://www.codefresh.io/,United States,Developer Tools,27000000,Series C,Jun-20
+614,Area 1 Security,https://www.area1security.com/,United States,Cyber Security,25000000,Series D,Jun-20
+615,Cynet,https://www.cynet.com/,United States,Cyber Security,18000000,Series B,Jun-20
+616,Aclaimant,https://aclaimant.com,United States,B2B Software,10000000,Series A,Jun-20
+617,Tempo,https://www.heytempo.com/,United Kingdom,Recruiting,6160169,Series A,Jun-20
+618,Nacelle,https://getnacelle.com/,United States,E-Commerce Platform,4800000,Seed,Jun-20
+619,StrategyBox,http://www.strategybox.com,Canada,B2B Software,2000000,Seed,Jun-20
+620,Fivetran,https://fivetran.com,United States,B2B Software,100000000,Series C,Jun-20
+621,Discord,https://discordapp.com/,United States,Social Network,100000000,Unknown,Jun-20
+622,Scalefast,http://www.scalefast.com/,United States,E-Commerce Platform,22000000,Series B,Jun-20
+623,NexHealth,https://nexhealth.com,United States,B2B Software,15000000,Series A,Jun-20
+624,Hunters,https://www.hunters.ai,Israel,Artificial Intelligence,15000000,Series A,Jun-20
+625,Upsolver,http://upsolver.com/,United States,B2B Software,13300000,Series A,Jun-20
+626,Elementary Robotics,https://www.elementaryrobotics.com/,United States,Artificial Intelligence,12700000,Series A,Jun-20
+627,Bluedot,https://bluedot.io/,United States,B2B Software,9100000,Series B,Jun-20
+628,Capital,http://captec.io,United States,Investing,9000000,Seed,Jun-20
+629,ZITICITY,http://www.ziticity.com,Lithuania,Logistics,2471424,Seed,Jun-20
+630,Pattern89,https://www.pattern89.com/,United States,B2B Software,2000000,Seed,Jun-20
+631,Scurri,http://www.scurri.co.uk/,Ireland,Logistics,1683743,Unknown,Jun-20
+632,Anduril Industries,https://www.anduril.com/,United States,Aerospace,200000000,Series C,Jul-20
+633,Density,https://density.io/,United States,Analytics,51000000,Series C,Jul-20
+634,SensorUp,https://www.sensorup.com,Canada,Analytics,6000000,Series A,Jul-20
+635,VodaSafe,https://vodasafe.ca/,Canada,Artificial Intelligence,1000000,Seed,Jul-20
+636,AB Tasty,https://www.abtasty.com,France,Artificial Intelligence,40000000,Series C,Jul-20
+637,Huddl,https://www.huddl.ai,United States,Artificial Intelligence,6000000,Seed,Jul-20
+638,Insider,https://useinsider.com/,Singapore,Artificial Intelligence,32000000,Series C,Jul-20
+639,MakinaRocks,https://www.makinarocks.ai/,South Korea,Artificial Intelligence,10000000,Series A,Jul-20
+640,Shelf Engine,https://www.shelfengine.com/,United States,Artificial Intelligence,12000000,Series A,Jul-20
+641,Senso.ai,https://www.senso.ai,Canada,Artificial Intelligence,3000000,Seed,Jul-20
+642,Signum.ai,http://signum.ai/,United States,Artificial Intelligence,500000,Seed,Jul-20
+643,Simply Speak,https://simplyspeak.com,United States,Artificial Intelligence,1000000,Seed,Jul-20
+644,FraudScope,https://www.fraudscope.com/,United States,Artificial Intelligence,7000000,Series A,Jul-20
+645,Cybellum,https://cybellum.com/,Israel,Automotive,12000000,Series A,Jul-20
+646,Sea Machines Robotics,https://www.sea-machines.com,United States,Autonomous Vehicles,15000000,Series B,Jul-20
+647,Sibros,https://www.sibros.tech/,United States,Autonomous Vehicles,12000000,Series A,Jul-20
+648,Mosaic,https://mosaicapp.com,United States,B2B Softare,100000,Seed,Jul-20
+649,Turbo Systems,https://turbosystems.com/,United States,B2B Softare,3000000,Series A,Jul-20
+650,Hevo Data,https://hevodata.com,United States,B2B Software,8000000,Series A,Jul-20
+651,Chorus.ai,https://chorus.ai,United States,B2B Software,45000000,Series C,Jul-20
+652,Pyn,https://www.pynhq.com/,Australia,B2B Software,2000000,Seed,Jul-20
+653,Explorium,https://www.explorium.ai/,Israel,B2B Software,31000000,Series B,Jul-20
+654,boostr,https://boostr.com,United States,B2B Software,7000000,Series A,Jul-20
+655,Paragon,https://www.useparagon.com/,United States,B2B Software,3000000,Seed,Jul-20
+656,Ceros,https://www.ceros.com,United States,B2B Software,100000000,Unknown,Jul-20
+657,effx,https://effx.com/,United States,B2B Software,4000000,Seed,Jul-20
+658,Epsagon,https://www.epsagon.com,United States,B2B Software,10000000,Unknown,Jul-20
+659,Grid Raster,https://www.gridraster.com/,United States,B2B Software,3000000,Unknown,Jul-20
+660,iObeya,https://www.iobeya.com,France,B2B Software,17000000,Series A,Jul-20
+661,Matik,https://matik.io/,United States,B2B Software,3000000,Seed,Jul-20
+662,quantilope,https://www.quantilope.com/,Germany,B2B Software,28000000,Series B,Jul-20
+663,Quorum,https://quorum.chat,United States,B2B Software,2000000,Seed,Jul-20
+664,Sift,https://www.justsift.com/,United States,B2B Software,3000000,Series A,Jul-20
+665,Talkdesk,https://talkdesk.com,United States,B2B Software,143000000,Series C,Jul-20
+666,Macro,https://macro.io,United States,B2B Software,4000000,Seed,Jul-20
+667,Openpath,https://www.openpath.com,United States,B2B Software,36000000,Series C,Jul-20
+668,MadKudu,https://www.madkudu.com/,United States,B2B Software,6000000,Series A,Jul-20
+669,Qumulo,https://qumulo.com/,United States,B2B Software,125000000,Series E,Jul-20
+670,Layer,https://golayer.io/,Germany,B2B Software,5000000,Seed,Jul-20
+671,Lattice,https://lattice.com/,United States,B2B Software,45000000,Series D,Jul-20
+672,1sm,https://1sm.io,United States,B2B Software,375000,Pre-Seed,Jul-20
+673,Quaestor,https://quaestor.com/,United States,B2B Software,6000000,Seed,Jul-20
+674,TradeDepot,https://www.tradedepot.co/,Nigeria,B2B Software,10000000,Unknown,Jul-20
+675,Puppet,https://puppet.com/,United States,B2B Software,40000000,Debt Financing,Jul-20
+676,Trackstreet,http://www.trackstreet.com/,United States,B2B Software,5000000,Seed,Jul-20
+677,VideoPeel,https://videopeel.com,United States,B2B Software,2000000,Seed,Jul-20
+678,Sourcegraph,https://sourcegraph.com,United States,B2B Software,5000000,Series B,Jul-20
+679,Open Social,http://www.getopensocial.com,The Netherlands,B2B Software,1000000,Unknown,Jul-20
+680,TileDB,https://tiledb.com/,United States,B2B Software,15000000,Series A,Jul-20
+681,Zeotap,http://www.zeotap.com,Germany,B2B Software,42000000,Series C,Jul-20
+682,Pricefx,http://www.pricefx.com/,Germany,B2B Software,65000000,Series C,Jul-20
+683,Tenovos,https://tenovos.com/,United States,B2B Software,4000000,Series A,Jul-20
+684,Userlane,https://www.userlane.com/,Germany,B2B Software,11000000,Series B,Jul-20
+685,Amie,https://amie.so/,Germany,B2B Software,1000000,Pre-Seed,Jul-20
+686,Beekeeper,https://beekeeper.io,Switzerland,B2B Software,10000000,Series B,Jul-20
+687,Docket,https://dockethq.com,United States,B2B Software,1000000,Seed,Jul-20
+688,Jika,https://jika.ai,United States,B2B Software,150000,Pre-Seed,Jul-20
+689,LeanIX,https://www.leanix.net,Germany,B2B Software,80000000,Series D,Jul-20
+690,LogDNA,https://logdna.com,United States,B2B Software,25000000,Series C,Jul-20
+691,Machine Labs,https://www.machinelabs.com,United Kingdom,B2B Software,1000000,Seed,Jul-20
+692,Northflank,https://northflank.com/,United Kingdom,B2B Software,3000000,Seed,Jul-20
+693,onetool,https://onetool.co/,United States,B2B Software,900000,Pre-Seed,Jul-20
+694,OwnBackup,https://www.ownbackup.com/,United States,B2B Software,50000000,Series D,Jul-20
+695,SetSail,https://www.setsail.co,United States,B2B Software,7000000,Series A,Jul-20
+696,Zomentum,https://www.zomentum.com/,United States,B2B Software,4000000,Seed,Jul-20
+697,ChannelMeter,http://www.channelmeter.com,United States,B2B Software,4000000,Seed,Jul-20
+698,QuestDB,https://www.questdb.io,United Kingdom,B2B Software,2000000,Seed,Jul-20
+699,Glympse Bio,https://glympsebio.com/,United States,Biotechnology,47000000,Series B,Jul-20
+700,Qualio,https://www.qualio.com,United States,Biotechnology,11000000,Series A,Jul-20
+701,Adagio Therapeutics,https://adagiotx.com/,United States,Biotechnology,50000000,Series A,Jul-20
+702,Polkadot,https://polkadot.network,United Kingdom,Blockchain,44000000,Initial Coin Offering,Jul-20
+703,VALR,https://www.valr.com,South Africa,Blockchain,3000000,Series A,Jul-20
+704,Teller Finance,https://teller.finance/,United States,Blockchain,1000000,Seed,Jul-20
+705,Valid Network,https://valid.network/,Israel,Blockchain,8000000,Seed,Jul-20
+706,Metaco,https://metaco.com,Switzerland,Blockchain,17000000,Series A,Jul-20
+707,Xangle,https://xangle.io,South Korea,Blockchain,3000000,Series A,Jul-20
+708,Chainalysis,https://chainalysis.com,United States,Blockchain,13000000,Series B,Jul-20
+709,HOPR,https://hopr.network/,Switzerland,Blockchain,1000000,Seed,Jul-20
+710,Radix,https://www.radixdlt.com/,United Kingdom,Blockchain,4000000,Unknown,Jul-20
+711,B2C2,https://www.b2c2.com,United Kingdom,Blockchain,30000000,Unknown,Jul-20
+712,Curv,https://www.curv.co/,United States,Blockchain,23000000,Series A,Jul-20
+713,env0,https://www.env0.com,United States,Cloud Computing,4000000,Seed,Jul-20
+714,Stack Overflow,https://stackoverflow.com,United States,Communities,85000000,Series E,Jul-20
+715,Cover Technologies,https://buildcover.com,United States,Construction,10000000,Series A,Jul-20
+716,Boundary,https://boundary.co.uk,United Kingdom,Consumer,2000000,Seed,Jul-20
+717,Eterneva,https://eterneva.com/science,United States,Consumer,3000000,Seed,Jul-20
+718,Farewill,https://www.farewill.com,United Kingdom,Consumer,25000000,Unknown,Jul-20
+719,Nasuni,http://www.nasuni.com,United States,Cyber Security,25000000,Unknown,Jul-20
+720,Ermetic,https://www.ermetic.com/,United States,Cyber Security,17000000,Series A,Jul-20
+721,RangeForce,https://rangeforce.com,United States,Cyber Security,16000000,Series A,Jul-20
+722,Whistic,https://www.whistic.com/,United States,Cyber Security,12000000,Series A,Jul-20
+723,Sotero,https://www.soterosoft.com/,United States,Cyber Security,5000000,Seed,Jul-20
+724,Auth0,https://auth0.com/,United States,Cyber Security,120000000,Series F,Jul-20
+725,Second Front Systems,https://secondfront.com/,United States,Cyber Security,6000000,Seed,Jul-20
+726,Vendia,https://www.vendia.net/,United States,Developer Tools,5000000,Seed,Jul-20
+727,Propeller Aero,https://www.propelleraero.com/,Australia,Drones,18000000,Series B,Jul-20
+728,Skydio,https://www.skydio.com/,United States,Drones,100000000,Series C,Jul-20
+729,Speedbird Aero,https://www.speedbird.aero/,Brazil,Drones,470000,Seed,Jul-20
+730,CALA,https://www.ca.la,United States,E-Commerce,3000000,Seed,Jul-20
+731,Sampler,https://sampler.io/,Canada,E-commerce Software,4000000,Series B,Jul-20
+732,Bolt,https://www.bolt.com/,United States,E-commerce Software,50000000,Series C,Jul-20
+733,Bandicoot Imaging Sciences,https://www.bandicootimaging.com.au/,Australia,E-Commerce Software,330000,Angel,Jul-20
+734,TeleTeachers,https://teleteachers.com/,United States,Education,3000000,Series A,Jul-20
+735,Ather Energy,http://www.atherenergy.com,India,Electric Vehicle,11000000,Series C,Jul-20
+736,Cowboy,https://cowboy.com/,Belgium,Electric Vehicle,26000000,Series B,Jul-20
+737,Thought Machine,https://www.thoughtmachine.net/,United Kingdom,FinTech,42000000,Series B,Jul-20
+738,Guideline,https://www.guideline.com,United States,FinTech,80000000,Series D,Jul-20
+739,Remitly,https://remitly.com,United States,FinTech,85000000,Series F,Jul-20
+740,Mantl,http://www.mantl.com,United States,FinTech,11000000,Series A,Jul-20
+741,Meemo,https://www.meemo.ai,United States,FinTech,10000000,Seed,Jul-20
+742,Revolut,http://www.revolut.com,United Kingdom,FinTech,80000000,Series D,Jul-20
+743,Privacy.com,https://privacy.com,United States,FinTech,10000000,Series A,Jul-20
+744,Robinhood,https://www.robinhood.com/,United States,FinTech,320000000,Series F,Jul-20
+745,Moneybox,https://www.moneyboxapp.com,United Kingdom,FinTech,38000000,Series C,Jul-20
+746,Lanistar,https://www.iamlanistar.com/,United Kingdom,FinTech,19000000,Unknown,Jul-20
+747,Bond,https://www.bond.tech,United States,FinTech,32000000,Series A,Jul-20
+748,Ravelin,http://www.ravelin.com,United Kingdom,FinTech,21000000,Series C,Jul-20
+749,Flinks,https://flinks.io/,Canada,FinTech,8000000,Series A,Jul-20
+750,Icon,https://www.iconsavingsplan.com/,United States,FinTech,3000000,Seed,Jul-20
+751,Payaut,https://www.payaut.com/,The Netherlands,FinTech,1000000,Pre-Seed,Jul-20
+752,Penta,https://www.getpenta.com,Germany,FinTech,5000000,Series B,Jul-20
+753,Wagestream,https://wagestream.co.uk/,United Kingdom,FinTech,23000000,Series B,Jul-20
+754,Felix,https://felix.insure/,United Arab Emirates,FinTech,800000,Seed,Jul-20
+755,Point Card,https://point.app,United States,FinTech,11000000,Series A,Jul-20
+756,Qashier,https://qashier.com/,Singapore,FinTech,862000,Seed,Jul-20
+757,"Ready, Set, Food!",https://readysetfood.com,United States,Food and Beverage,3000000,Seed,Jul-20
+758,Crisp,https://www.gocrisp.com/,United States,Food and Beverage,12000000,Series A,Jul-20
+759,Mori,https://www.mori.com/,United States,Food and Beverage,12000000,Series A,Jul-20
+760,Karma Kitchen,https://www.karmakitchen.co/,United Kingdom,Food and Beverage,316000000,Series A,Jul-20
+761,Athlane,https://www.athlane.com/,United States,Gaming,3000000,Seed,Jul-20
+762,Ro,https://www.ro.co/,United States,Health Care,200000000,Series C,Jul-20
+763,Kindbody,https://www.kindbody.com/,United States,Health Care,32000000,Series B,Jul-20
+764,Synapse Medicine,https://synapse-medicine.com/,France,Health Care,8000000,Unknown,Jul-20
+765,Synthesis,https://www.synthesisretreat.com/,The Netherlands,Health Care,3000000,Seed,Jul-20
+766,Truepill,https://www.truepill.com/,United States,Health Care,25000000,Series B,Jul-20
+767,Spotta,https://spotta.co/,United Kingdom,Hospitality,1000000,Seed,Jul-20
+768,Opus,https://www.opus.so,United States,Human Resources,2000000,Seed,Jul-20
+769,Angle Health,https://www.anglehealth.com,United States,Insurance,4000000,Seed,Jul-20
+770,Hippo,https://www.myhippo.com,United States,Insurance,150000000,Series E,Jul-20
+771,Start Sure,https://startsure.co/,United States,Insureance,100000,Seed,Jul-20
+772,Thrasio,https://www.thras.io/,United States,Investing,260000000,Series C,Jul-20
+773,Quaestor,https://quaestor.com/,United States,Investing,6000000,Seed,Jul-20
+774,cargo.one,https://cargo.one,Germany,Logistics,19000000,Series A,Jul-20
+775,Liftit,https://www.liftit.co/,Colombia,Logistics,23000000,Series B,Jul-20
+776,Dispatch,https://www.dispatchit.com/,United States,Logistics,11000000,Series B,Jul-20
+777,Instrumental,https://instrumental.com,United States,Manufacturing,20000000,Series B,Jul-20
+778,Torre,https://torre.co/,United States,Marketplace,5000000,Seed,Jul-20
+779,Axorus,http://www.axorus.com,France,Neuroscience,420000,Seed,Jul-20
+780,Kernel,https://kernel.co/,United States,Neuroscience,53000000,Series C,Jul-20
+781,Turing,https://turing.com,United States,Recruiting,5000000,Seed,Jul-20
+782,Gem,https://www.gem.com/,United States,Recruiting,37000000,Series B,Jul-20
+783,Jobcase,http://www.jobcase.com,United States,Recruiting,30000000,Series B,Jul-20
+784,The Mom Project,http://www.themomproject.com,United States,Recruiting,25000000,Series B,Jul-20
+785,Competitive Wedge,https://competitivewedge.com/,United States,Recruiting,1000000,Seed,Jul-20
+786,Replenysh,https://replenysh.com/,United States,Recycling,2000000,Seed,Jul-20
+787,Dexterity,https://www.dexterity.ai/,United States,Robotics,56000000,Series A,Jul-20
+788,PuduTech,http://www.pudutech.com/en/,China,Robotics,14000000,Series B,Jul-20
+789,CY Vision,https://www.cyvision.com/,United States,Transportation,5000000,Unknown,Jul-20
+790,Immertec,https://www.immertec.com,United States,Virtual Reality,6000000,Series A,Jul-20
+791,Virtuleap,https://www.virtuleap.com,Portugal,Virtual Reality,100000,Seed,Jul-20
+792,FitXR,https://www.fitxr.com,United Kingdom,Virtual Reality,6000000,Series A,Jul-20
+793,Clim8,https://myclim8.com,France,Wearables,3000000,Series A,Jul-20
+794,The Browser Company,https://thebrowser.company/,United States,Web Browsers,5000000,Seed,Jul-20
+795,Tempo,https://www.tempo.fit/,United States,Wellness,60000000,Series B,Jul-20
+796,Real,https://www.join-real.com/,United States,Wellness,6000000,Seed,Jul-20
+797,Ergatta,https://www.ergatta.com/,United States,Wellness,5000000,Seed,Jul-20
+798,SpaceX,https://www.spacex.com/,United States,Aerospace,1901446920,Unknown,Aug-20
+799,Infermedica,https://infermedica.com,Poland,Artificial Intelligence,10250000,Series A,Aug-20
+800,Truera,https://truera.com/,United States,Artificial Intelligence,5100000,Series A,Aug-20
+801,Syntiant,https://www.syntiant.com/,United States,Artificial Intelligence,35000000,Series C,Aug-20
+802,Hiretual,https://hiretual.com,United States,Artificial Intelligence,13000000,Series B,Aug-20
+803,LitLingo,https://www.litlingo.com/,United States,Artificial Intelligence,2000000,Seed,Aug-20
+804,Sift Healthcare,https://www.sifthealthcare.com/,United States,Artificial Intelligence,2800000,Series A,Aug-20
+805,Workist,https://workist.com,Germany,Artificial Intelligence,2750000,Seed,Aug-20
+806,2021.AI,https://www.2021.ai,Denmark,Artificial Intelligence,1500000,Seed,Aug-20
+807,Aetion,https://www.aetion.com/,United States,Artificial Intelligence,19000000,Series B,Aug-20
+808,Dataiku,https://www.dataiku.com/,United States,Artificial Intelligence,100000000,Series D,Aug-20
+809,proteanTecs,https://www.proteantecs.com/,Israel,Artificial Intelligence,45000000,Unkown,Aug-20
+810,VertaAI,https://www.verta.ai/,United States,Artificial Intelligence,10000000,Series A,Aug-20
+811,Xpeng Motors,https://www.xiaopeng.com/,China,Autonomous Vehicles,300000000,Series C,Aug-20
+812,WorkPatterns,https://www.workpatterns.com/,United States,B2B Software,2800000,Seed,Aug-20
+813,AgentSync,https://agentsync.io,United States,B2B Software,4400000,Seed,Aug-20
+814,Approve.com,https://www.approve.com,Israel,B2B Software,5000000,Seed,Aug-20
+815,BRIO,https://www.getbrio.com,United States,B2B Software,1900000,Seed,Aug-20
+816,Mode Analytics,https://mode.com,United States,B2B Software,33000000,Series D,Aug-20
+817,Clik,https://www.clik.asia,Cambodia,B2B Software,3700000,Seed,Aug-20
+818,PandaDoc,https://www.pandadoc.com/,United States,B2B Software,30000000,Series B,Aug-20
+819,Yotpo,https://www.yotpo.com,United States,B2B Software,75000000,Series E,Aug-20
+820,inFeedo,https://www.infeedo.com/,India,B2B Software,700000,Seed,Aug-20
+821,Coda,https://coda.io/,United States,B2B Software,80000000,Series C,Aug-20
+822,Compaas,https://www.compa.as,United States,B2B Software,4250000,Seed,Aug-20
+823,Fyllo,https://hellofyllo.com,United States,B2B Software,10000000,Series A,Aug-20
+824,Gong,https://www.gong.io/,United States,B2B Software,200000000,Series D,Aug-20
+825,GoSite,https://www.gosite.com,United States,B2B Software,16000000,Series A,Aug-20
+826,Oomnitza,https://www.oomnitza.com,United States,B2B Software,12500000,Series B,Aug-20
+827,Parabola,https://www.parabola.io/,United States,B2B Software,8000000,Series A,Aug-20
+828,Perimeter 81,https://www.perimeter81.com,Israel,B2B Software,40000000,Series B,Aug-20
+829,RevenueCat,https://www.revenuecat.com/,United States,B2B Software,15000000,Series A,Aug-20
+830,Simpplr,https://www.simpplr.com/,United States,B2B Software,10000000,Series B,Aug-20
+831,Stream,https://getstream.io/,United States,B2B Software,15000000,Series A,Aug-20
+832,Zoom.ai,https://zoom.ai/,Canada,B2B Software,451278,Unknown,Aug-20
+833,Bridge Connector,https://bridgeconnector.co/,United States,B2B Software,25500000,Series B,Aug-20
+834,Yalo,https://www.yalochat.com/,United States,B2B Software,15000000,Series B,Aug-20
+835,CaliberMind,https://calibermind.com,United States,B2B Software,2000000,Seed,Aug-20
+836,SupportLogic,https://www.supportlogic.io/,United States,B2B Software,9100000,Series A,Aug-20
+837,Buildkite,https://buildkite.com/,Australia,B2B Software,20251157,Series A,Aug-20
+838,Blanket,https://blanket.app,United States,B2B Software,800000,Seed,Aug-20
+839,Chili Piper,https://chilipiper.com,United States,B2B Software,18000000,Series A,Aug-20
+840,Reflective,https://reflective.co/,United States,B2B Software,1300000,Seed,Aug-20
+841,Stedi,https://stedi.com,United States,B2B Software,50000000,Unknown,Aug-20
+842,Berbix,https://www.berbix.com,United States,B2B Software,9000000,Series A,Aug-20
+843,ChartHop,https://www.charthop.com/,United States,B2B Software,14000000,Series A,Aug-20
+844,Grid,https://grid.is/,Iceland,B2B Software,11932638,Series A,Aug-20
+845,LaunchNotes,https://www.launchnotes.io/,United States,B2B Software,1800000,Seed,Aug-20
+846,MURAL,https://mural.co,United States,B2B Software,118000000,Series B,Aug-20
+847,Split,https://www.split.io/,United States,B2B Software,33000000,Series C,Aug-20
+848,Stratify Technologies,https://www.stratifytech.com/,United States,B2B Software,4900000,Seed,Aug-20
+849,Supermetrics,https://supermetrics.com,Finland,B2B Software,47174818,Series B,Aug-20
+850,Thirdfort,https://www.thirdfort.com,United Kingdom,B2B Software,1315067,Seed,Aug-20
+851,Verloop,https://verloop.io,India,B2B Software,1500000,Series A,Aug-20
+852,Yac,https://www.yac.com/,United States,B2B Software,500000,Unknown,Aug-20
+853,Synthego,https://www.synthego.com,United States,Biotechnology,100000000,Series D,Aug-20
+854,Hedget,https://www.hedget.com/,,Blockchain,500000,Seed,Aug-20
+855,Dapper Labs,https://www.dapperlabs.com/,Canada,Blockchain,11400000,Series A,Aug-20
+856,Morpher,https://www.morpher.com,Austria,Blockchain,1250000,Seed,Aug-20
+857,BlockFi,https://blockfi.com/,United States,Blockchain,50000000,Series C,Aug-20
+858,Restream,https://restream.io/,United States,Broadcasting,50000000,Series A,Aug-20
+859,Craft,https://www.craft.co,United States,Business Intelligence,10000000,Series A,Aug-20
+860,Dutchie,https://dutchie.com,United States,Cannabis,35000000,Series B,Aug-20
+861,Frontline,https://getfrontline.com,United States,Cloud Computing,150000,Pre-Seed,Aug-20
+862,Feather,https://www.livefeather.com,United States,Consumer,30000000,Debt Financing,Aug-20
+863,HyperQube,https://hyperqube.io/,United States,Cyber Security,2500000,Seed,Aug-20
+864,Censys,https://censys.io/,United States,Cyber Security,15500000,Series A,Aug-20
+865,Clean Creative,https://clean.io/,United States,Cyber Security,5000000,Series A,Aug-20
+866,Silverfort,https://www.silverfort.io,Israel,Cyber Security,30000000,Series B,Aug-20
+867,Adaptive Shield,https://www.adaptive-shield.com/,Israel,Cyber Security,4000000,Seed,Aug-20
+868,Blumira,https://www.blumira.com/,United States,Cyber Security,2600000,Seed,Aug-20
+869,Elisity,https://www.elisity.com/,United States,Cyber Security,7500000,Seed,Aug-20
+870,Cyware Labs,https://www.cyware.com/,United States,Cyber Security,10000000,Series A,Aug-20
+871,SpyCloud,https://spycloud.com/,United States,Cyber Security,30000000,Series C,Aug-20
+872,Apheris AI,https://www.apheris.com/,Germany,Cyber Security,2960727,Seed,Aug-20
+873,ReliaQuest,https://www.reliaquest.com/,United States,Cyber Security,300000000,Private Equity,Aug-20
+874,Merico,https://meri.co,United States,Developer Tools,4100000,Seed,Aug-20
+875,Mux,https://mux.com,United States,Developer Tools,37000000,Series C,Aug-20
+876,Qonversion,https://qonversion.io,United States,Developer Tools,850000,Seed,Aug-20
+877,WayScript,https://wayscript.com,United States,Developer Tools,5000000,Seed,Aug-20
+878,Pachyderm,https://www.pachyderm.com,United States,Developer Tools,16000000,Series B,Aug-20
+879,Grafana Labs,https://grafana.com,United States,Developer Tools,50000000,Series B,Aug-20
+880,Civo,https://www.civo.com,United Kingdom,Developer Tools,328766,Seed,Aug-20
+881,ReturnLogic,https://www.returnlogic.com,United States,E-Commerce Software,2000000,Seed,Aug-20
+882,Pattern,https://www.pattern.com,United States,E-Commerce Software,52000000,Series A,Aug-20
+883,Narrativ,https://narrativ.com,United States,E-Commerce Software,6000000,Seed,Aug-20
+884,Adiposs,https://adiposs.com/,Switzerland,Education,109663,Debt Financing,Aug-20
+885,GoPeer,https://gopeer.org,United States,Education,2000000,Seed,Aug-20
+886,Skillshare,https://skillshare.com,United States,Education,66000000,Series D,Aug-20
+887,Lambda School,https://lambdaschool.com/,United States,Education,74000000,Series C,Aug-20
+888,Showbie,https://www.showbie.com,Canada,Education,3783937,Series A,Aug-20
+889,CleverX,https://cleverx.com/,United States,Education,250000,Seed,Aug-20
+890,Geek Express,https://geekexpress.com/,United Arab Emirates,Education,520000,Seed,Aug-20
+891,Juni Learning,https://junilearning.com/,United States,Education,10500000,Series A,Aug-20
+892,Zoomo,https://www.ridezoomo.com,Australia,Electric Vehicles,11000000,Series A,Aug-20
+893,Xos Trucks,https://www.xostrucks.com/,United States,Electric Vehicles,20000000,Unknown,Aug-20
+894,HMD,https://www.hmdglobal.com/,Finland,Electronics,230000000,Series A,Aug-20
+895,SiFive,https://www.sifive.com/,United States,Electronics,61000000,Series E,Aug-20
+896,Ceresa,https://www.ceresa.com/,United States,Employee Training,1000000,Seed,Aug-20
+897,EnergyX,https://energyxsolutions.com/,Canada,Energy,1000000,Seed,Aug-20
+898,6Degree,https://6degree.co/,India,Fashion,341002,Unknown,Aug-20
+899,Ayoconnect,https://www.ayoconnect.id/,Indonesia,FinTech,5000000,Series B,Aug-20
+900,TaxScouts,https://taxscouts.com,United Kingdom,FinTech,6542438,Series A,Aug-20
+901,Orum.io,https://www.orum.io/,United States,FinTech,5200000,Seed,Aug-20
+902,Axle,https://www.axlepayments.com/,United States,FinTech,25000000,Debt Financing,Aug-20
+903,SMBX,https://www.thesmbx.com,United States,FinTech,2500000,Seed,Aug-20
+904,Trumid,https://www.trumid.com/,United States,FinTech,200000000,Series E,Aug-20
+905,CredoLab,https://www.credolab.com,Singapore,FinTech,7000000,Series A,Aug-20
+906,Moov,https://moov.io,United States,FinTech,5500000,Seed,Aug-20
+907,Robinhood,https://www.robinhood.com/,United States,FinTech,200000000,Series G,Aug-20
+908,BR-DGE,https://br-dge.to/,United Kingdom,FinTech,3292770,Seed,Aug-20
+909,Hammock,https://usehammock.com/,United Kingdom,FinTech,1310779,Seed,Aug-20
+910,CommonStock,https://www.commonstock.com,United States,FinTech,9700000,Seed,Aug-20
+911,Cross River,https://www.crossriverbank.com/,United States,FinTech,106000000,Debt Financing,Aug-20
+912,Esusu,https://www.esusu.org,United States,FinTech,2300000,Seed,Aug-20
+913,Finix,https://www.finixpayments.com,United States,FinTech,30000000,Series B,Aug-20
+914,Machnet,https://machnetinc.com/,United States,FinTech,40000,Seed,Aug-20
+915,Open Payments,https://openpayments.io,Sweden,FinTech,3550241,Seed,Aug-20
+916,Atomo Coffee,https://atomocoffee.com/,United States,Food and Beverage,9000000,Seed,Aug-20
+917,Impossible Foods,http://impossiblefoods.com/,United States,Food and Beverage,200000000,Series G,Aug-20
+918,Atari,https://www.atari.com,United States,Gaming,4500000,Series A,Aug-20
+919,Wildlife Studios,http://www.wildlifestudios.com,Brazil,Gaming,120000000,Series B,Aug-20
+920,ROOM,https://room.com/,United States,Hardware,12500000,Series A,Aug-20
+921,Eden Health,https://edenhealth.com/,United States,Health Care,25000000,Series B,Aug-20
+922,OneDrop,https://onedrop.today/,United States,Health Care,34700000,Series C,Aug-20
+923,PatientPop,https://www.patientpop.com,United States,Health Care,50000000,Series C,Aug-20
+924,Minnow,https://www.minnowpdx.com,United States,Hospitality,2200000,Seed,Aug-20
+925,Rippling,https://www.rippling.com/,United States,Human Resources,145000000,Series B,Aug-20
+926,CakeResume,https://www.cakeresume.com/,Taiwan,Human Resources,900000,Seed,Aug-20
+927,Omnipresent,https://www.omnipresent.group/,United Kingdom,Human Resources,2000000,Seed,Aug-20
+928,Carrot Fertility,https://www.get-carrot.com,United States,Human Resources,24000000,Series B,Aug-20
+929,Flux,https://fluxwork.co,United States,Human Resources,3000000,Seed,Aug-20
+930,HelloTeam,https://www.helloteam.com,United States,Human Resources,3500000,Seed,Aug-20
+931,Welcome,https://www.heywelcome.com/,United States,Human Resources,1400000,Seed,Aug-20
+932,Interview Mocha,https://www.interviewmocha.com,India,Human Resources,600000,Seed,Aug-20
+933,Lyra Health,https://www.lyrahealth.com,United States,Human Resources,110000000,Series D,Aug-20
+934,Republic,https://republic.co,United States,Investing,16000000,ICO,Aug-20
+935,The Insights People,https://www.theinsightspeople.com/,United Kingdom,Market Research,648501,Angel,Aug-20
+936,Castor,https://www.castoredc.com/,The Netherlands,MedTech,12000000,Series A,Aug-20
+937,Sesh,https://www.gosesh.com,United States,Neuroscience,1585000,Pre-Seed,Aug-20
+938,TemperPack,https://www.temperpack.com/,United States,Packaging,31000000,Series C,Aug-20
+939,Zibo,https://www.zibo.co/,United States,Real Estate,10500000,Seed,Aug-20
+940,ICON,https://www.iconbuild.com/,United States,Real Estate,35000000,Series A,Aug-20
+941,Offr,https://offr.io/,Ireland,Real Estate,3552873,Seed,Aug-20
+942,Joblist,https://www.joblist.com,United States,Recruiting,4000000,Seed,Aug-20
+943,Able Jobs,https://ablejobs.co/,India,Recruiting,1800000,Seed,Aug-20
+944,Candidate,https://candidate.co,United States,Recruiting,1000000,Seed,Aug-20
+945,Turing,https://turing.com,United States,Recruiting,6000000,Seed,Aug-20
+946,ATTAbotics,https://www.attabotics.com/,Canada,Robotics,50000000,Series C,Aug-20
+947,XYZ Robotics,https://www.xyzrobotics.ai/,United States,Robotics,20000000,Series A,Aug-20
+948,Flyscan,https://flyscan.com/,Canada,Sensor,4287903,Unknown,Aug-20
+949,Omio,https://www.omio.com/,Germany,Travel,100000000,Unknown,Aug-20
+950,Segmentive,https://segmentive.ai,Germany,Video Tech,2374278,Seed,Aug-20
+951,Varjo,https://www.varjo.com/,Finland,Virtual Reality,54000000,Series C,Aug-20
+952,Gravity Sketch,https://gravitysketch.com,United Kingdom,3D Technology,3700000,Seed,Sep-20
+953,Leaf Agriculture,https://withleaf.io,United States,Agriculture,2000000,Seed,Sep-20
+954,Hypatos,https://hypatos.ai/,Germany,Artificial Intelligence,11807393,Seed,Sep-20
+955,Justpoint,https://www.justpoint.com/,United States,Artificial Intelligence,1035000,Seed,Sep-20
+956,Sentinel,https://thesentinel.ai/,Estonia,Artificial Intelligence,1350000,Seed,Sep-20
+957,YesPlz,https://yesplz.ai,United States,Artificial Intelligence,1510000,Seed,Sep-20
+958,WhyLabs,https://whylabs.ai/,United States,Artificial Intelligence,4000000,Seed,Sep-20
+959,PSYKHE,https://www.psykhefashion.com,United Kingdom,Artificial Intelligence,1700000,Seed,Sep-20
+960,Replicant,https://www.replicant.ai/,United States,Artificial Intelligence,27000000,Series A,Sep-20
+961,DeepCube,https://www.deepcube.com,Israel,Artificial Intelligence,7000000,Series A,Sep-20
+962,Golden,https://golden.com,United States,Artificial Intelligence,14500000,Series A,Sep-20
+963,Legion,https://legion.co/,United States,Artificial Intelligence,22000000,Series B,Sep-20
+964,Biofourmis,https://www.biofourmis.com,United States,Artificial Intelligence,100000000,Series C,Sep-20
+965,Beyond Limits,https://www.beyond.ai/,United States,Artificial Intelligence,133000000,Series C,Sep-20
+966,XtalPi,http://www.xtalpi.com/,United States,Artificial Intelligence,318800000,Series C,Sep-20
+967,Zymergen,https://www.zymergen.com,United States,Artificial Intelligence,300000000,Series D,Sep-20
+968,Camera IQ,https://cameraiq.co/,United States,Augmented Reality,5000000,Series A,Sep-20
+969,Annotell,https://www.annotell.com/,Sweden,Autonomous Vehicles,6771144,Series A,Sep-20
+970,Idriverplus,https://www.idriverplus.com/,China,Autonomous Vehicles,14683209,Series C,Sep-20
+971,Outfunnel,https://outfunnel.com,Estonia,B2B Software,1298958,Pre-Seed,Sep-20
+972,Pliant.io,https://www.pliant.io/,United States,B2B Software,2600000,Pre-Seed,Sep-20
+973,Layerise,https://www.layerise.com,Denmark,B2B Software,1163872,Pre-Seed,Sep-20
+974,Vena,https://www.venasolutions.com/,Canada,B2B Software,25000000,Private Equity,Sep-20
+975,AppDirect,https://www.appdirect.com,United States,B2B Software,185000000,Private Equity,Sep-20
+976,Avo,https://www.avo.app/,United States,B2B Software,3000000,Seed,Sep-20
+977,Plantt,https://plantt.io/,United States,B2B Software,1000000,Seed,Sep-20
+978,Ribbon,https://ribbonexperiences.com/,United States,B2B Software,1200000,Seed,Sep-20
+979,Programmai,https://programmai.com/,United Kingdom,B2B Software,1092147,Seed,Sep-20
+980,Collective,http://www.collective.com,United States,B2B Software,8650000,Seed,Sep-20
+981,InCountry,https://incountry.com/,United States,B2B Software,18000000,Series A,Sep-20
+982,InfoSum,https://www.infosum.com/,United Kingdom,B2B Software,15100000,Series A,Sep-20
+983,Quintype,https://www.quintype.com/,India,B2B Software,3422297,Series A,Sep-20
+984,Reachdesk,https://reachdesk.com/,United States,B2B Software,6000000,Series A,Sep-20
+985,Klue,https://klue.com,Canada,B2B Software,15000000,Series A,Sep-20
+986,Lokalise,https://lokalise.com,United Kingdom,B2B Software,6000000,Series A,Sep-20
+987,Shelf,https://www.shelf.io/,United States,B2B Software,6000000,Series A,Sep-20
+988,Sumsub,https://sumsub.com,United Kingdom,B2B Software,6000000,Series A,Sep-20
+989,Air,https://air.inc,United States,B2B Software,12000000,Series A,Sep-20
+990,Airmeet,https://www.airmeet.com/,India,B2B Software,12000000,Series A,Sep-20
+991,Courier,https://www.courier.com,United States,B2B Software,10100000,Series A,Sep-20
+992,HappySignals,https://happysignals.com/,Finland,B2B Software,5542426,Series A,Sep-20
+993,KeepIt,https://www.keepit.com/,Denmark,B2B Software,30000000,Series A,Sep-20
+994,Varada,https://varada.io/,Israel,B2B Software,12000000,Series A,Sep-20
+995,Laika,https://heylaika.com,United States,B2B Software,10000000,Series A,Sep-20
+996,Klaus,https://klausapp.com/,Estonia,B2B Software,5400000,Series A,Sep-20
+997,SquadStack,https://www.squadstack.com,United States,B2B Software,5000000,Series A,Sep-20
+998,Jandi,https://www.jandi.com,South Korea,B2B Software,13000000,Series B,Sep-20
+999,Deel,https://www.letsdeel.com,United States,B2B Software,0,Series B,Sep-20
+1000,BrandTotal,https://www.brandtotal.com,United States,B2B Software,42000000,Series B,Sep-20
